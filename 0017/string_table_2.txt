@@ -1,0 +1,979 @@
+dummy
+Texto introductorio para nueva<NEWLINE>combinaciones. Da mejores re-<NEWLINE>sultados.
+Texto básico. Junto con 1, me-<NEWLINE>jora las opciones de éxito al<NEWLINE>combinar.
+Texto intermedio. Junto con 1<NEWLINE>y 2, mejora las opciones de<NEWLINE>éxito.
+Texto avanzado. Con 1, 2 y 3,<NEWLINE>mejora las opciones de éxito<NEWLINE>al combinar.
+Texto profesional. Con 1, 2, 3<NEWLINE>y 4, mejora las opciones de<NEWLINE>éxito.
+Un ejemplar de "Vida del<NEWLINE>cazador". El contener revistas<NEWLINE>mejora el espacio de la caja.
+Un ejemplar de "Vida del<NEWLINE>cazador". Mejora la técnica de<NEWLINE>llevar objetos.
+Restablece ligeramente la<NEWLINE>Salud.
+Restablece moderadamente la<NEWLINE>Salud.
+Aumenta ligeramente el nivel<NEWLINE>de Salud.
+Medicina que aumenta ligera-<NEWLINE>mente el máximo de Salud.
+Elimina de forma eficaz cual-<NEWLINE>quier rastro de veneno en tu<NEWLINE>sistema.
+Cura de forma eficaz el veneno<NEWLINE>y restablece ligeramente la<NEWLINE>Salud.
+Medicina que aumenta la capa-<NEWLINE>cidad natural de recuperación.
+Recupera la Resistencia y la<NEWLINE>fatiga. Aprobado en el Gremio.
+Te permite correr sin cansarte<NEWLINE>durante cierto período de<NEWLINE>tiempo.
+Te permite correr sin cansarte<NEWLINE>más tiempo que el Zumo de<NEWLINE>poder.
+Aumenta el Ataque otorgando la<NEWLINE>fuerza del propio Asura al que<NEWLINE>la toma.
+Aumenta el Ataque aún más que<NEWLINE>la Droga demoníaca.
+Una píldora fortalecedora que<NEWLINE>te otorga el poder de un dios<NEWLINE>feroz.
+Aumenta la Defensa y endurece<NEWLINE>la piel como una armadura de<NEWLINE>piedra.
+Aumenta la Defensa más incluso<NEWLINE>que la piel de armadura.
+Una píldora que aporta tempo-<NEWLINE>ralmente a tu piel la dureza<NEWLINE>del metal.
+Bebida que otorga una resis-<NEWLINE>tencia temporal al calor<NEWLINE>extremo.
+Bebida que otorga una resis-<NEWLINE>tencia temporal al frío<NEWLINE>extremo.
+Extraña medicina que disuelve<NEWLINE>el barro y hielo pegado a el<NEWLINE>cuerpo.
+Al lanzarlo, su humo elimina<NEWLINE>el mal olor. Desbloquea el uso<NEWLINE>de objetos.
+Activa temporalmente una habi-<NEWLINE>lidad especial para detectar<NEWLINE>monstruos.
+Restablece la Salud al nivel<NEWLINE>máximo, permitiendo la total<NEWLINE>recuperación.
+Restablece la Salud y Resis-<NEWLINE>tencia al tope, da la total<NEWLINE>recuperación.
+Misteriosos cristales adorados<NEWLINE>como fuente de vida.
+Medicina creada con cristales<NEWLINE>de vida. Fuerte poder restau-<NEWLINE>rador.
+Se mezcla con materiales para<NEWLINE>mejorar el efecto. No se puede<NEWLINE>usar solo.
+Medicina que se usa como anes-<NEWLINE>tésico cuando se combina.
+Amuleto que sube el poder<NEWLINE>de Ataque. Otorga la fuerza de<NEWLINE>un demonio.
+Amuleto que sube el Ataque.<NEWLINE>Hecho con la garra de un<NEWLINE>Deviljho.
+Amuleto que sube la Defensa.<NEWLINE>La piel se endurece como una<NEWLINE>piedra.
+Amuleto que sube la Defensa.<NEWLINE>Hecho con la garra de un<NEWLINE>Deviljho.
+Carne obtenida al despiezar a<NEWLINE>un monstruo. Tiene diversos<NEWLINE>usos.
+Envenena si se come. Se<NEWLINE>usa como cebo en trampas.
+Paraliza si se come. Se<NEWLINE>usa como cebo en trampas.
+Causa sueño si se come.<NEWLINE>Se utiliza como cebo<NEWLINE>en trampas.
+Carne poco hecha.<NEWLINE>Aumenta ligeramente<NEWLINE>la Resistencia.
+Carne bien hecha.<NEWLINE>Aumenta medianamente<NEWLINE>la Resistencia.
+Carne tostada y crujiente.<NEWLINE>Aumenta la Resistencia,<NEWLINE>puede debilitar también.
+Se come para refrescarse,<NEWLINE>combatir el calor y hasta<NEWLINE>recuperar Resistencia.
+Se come para calentarse,<NEWLINE>combatir el frío e incluso<NEWLINE>recuperar Resistencia.
+Pescado poco hecho.<NEWLINE>Recupera la parte roja<NEWLINE>del indicador de Salud.
+Recupera la parte roja del<NEWLINE>indicador de Salud y sube<NEWLINE>la recuperación natural.
+Pescado tostado crujiente.<NEWLINE>A veces recupera la Salud,<NEWLINE>pero puede hacer daño.
+Especialidad de Villa Yukumo.<NEWLINE>Con una yema más oscura<NEWLINE>proporc. la máxima nutrición.
+Vuelve cuando se lanza. Un<NEWLINE>arma de forma peculiar<NEWLINE>de un país extranjero.
+Cuchillo de lanzamiento<NEWLINE>estándar. Línea recta.<NEWLINE>~C05(Obj. suministro)
+Cuchillo de lanzamiento<NEWLINE>con hoja venenosa. De<NEWLINE>efecto tóxico. ~C05(Obj. sum.)
+Cuchillo de lanzamiento<NEWLINE>con la hoja untada de<NEWLINE>polvo somnífero. ~C05(O. sum.)
+Cuchillo de lanzamiento<NEWLINE>con la hoja con toxina<NEWLINE>paralizante. ~C05(Obj. sum.)
+Cuchillo para ayudar a<NEWLINE>capturar los monstruos<NEWLINE>que golpea. ~C05 (Obj. sum.)
+Ingrediente básico para<NEWLINE>hacer bombas de mano.
+Se puede lanzar al<NEWLINE>monstruo para marcarlo y<NEWLINE>seguirle la pista.
+Bomba que da un brillante<NEWLINE>fogonazo al impactar.<NEWLINE>Causa ceguera.
+Emite un potente sonido<NEWLINE>de alta frecuencia<NEWLINE>al detonar.
+Excremento de monstruo.<NEWLINE>Una unidad maximiza la<NEWLINE>fertil. de una hilera.
+Excremento de Wyvern.<NEWLINE>Una unidad maximiza la<NEWLINE>fertil. de una hilera.
+Crea un olor horrible al<NEWLINE>impactar que no gusta a<NEWLINE>ciertos Wyverns.
+Crea una gran nube de<NEWLINE>humo en la zona donde<NEWLINE>cae.
+Bomba de humo que contiene<NEWLINE>un componente tóxico.<NEWLINE>Bomba de bichos casera.
+Te transporta al instante<NEWLINE>al campamento base.
+Para dominar y capturar<NEWLINE>a los monstruos atrapados.
+Tela de araña.<NEWLINE>Muy pegajosa.
+Potente red capaz de<NEWLINE>soportar bastante<NEWLINE>peso.
+Herramienta necesaria<NEWLINE>para colocar trampas,<NEWLINE>como la Trampa escollo.
+Trampa para atrapar<NEWLINE>grandes monstruos. Se<NEWLINE>activa con grandes pesos.
+Trampa que inmoviliza<NEWLINE>a un monstruo. Se usa<NEWLINE>para capturar.
+Peligroso producto químico<NEWLINE>que explota al tocarlo<NEWLINE>o calentarlo.
+Barril pequeño y vacío.
+Barril grande y vacío.
+Bomba de relojería<NEWLINE>pequeña.
+Potente bomba que se<NEWLINE>activa con un impacto<NEWLINE>físico externo.
+Bomba barril grande<NEWLINE>mejorada. Efectiva contra<NEWLINE>grandes monstruos.
+Bomba modificada que rebo-<NEWLINE>ta en el aire al ponerse. <NEWLINE>Se necesita habilidad.
+Una bomba que causa un olor<NEWLINE>que atrae a los Felyne,<NEWLINE>puede ser intoxicante.
+Los piratas pueden obtener<NEWLINE>esta bomba. Solo para misiones<NEWLINE>JUMP?. Lanza una grán bomba.
+Oh...<NEWLINE>Te quemarás junto a mi!<NEWLINE>                    Polytan
+Pico barato. Su hoja<NEWLINE>se rompe fácilmente.
+Pico de hierro con una<NEWLINE>hoja resistente.
+Pico de acero<NEWLINE>reforzado difícil de<NEWLINE>romper.
+Red barata para atrapar<NEWLINE>bichos, poco resistente.
+Red fuerte para atrapar<NEWLINE>bichos.
+Red muy duradera para<NEWLINE>atrapar bichos.
+Objeto imprescindible para<NEWLINE>todo cazador. Sirve para<NEWLINE>cocinar la carne.
+Piedra de afilar estándar.<NEWLINE>Al pulir armas con ella<NEWLINE>se restablece el Afilado.
+Baya vacía que crece<NEWLINE>en cualquier parte. Prueba<NEWLINE>a plantarla en el campo.
+Cáscara de munición de<NEWLINE>hueso capaz de aguantar<NEWLINE>potentes explosiones.
+Munición barata para<NEWLINE>novatos. No es potente.<NEWLINE>Disparos ilimitados.
+Munición normal más<NEWLINE>potente que Nv1.<NEWLINE>Disparos máx. 99.
+Munición normal que<NEWLINE>causa más daño que su<NEWLINE>antecesora. Disp. máx. 99.
+Disparo perforador que<NEWLINE>causa varios alcances a<NEWLINE>monstruos. Disp. máx. 60.
+Disparo perforador que<NEWLINE>causa más alcances que<NEWLINE>Nv1. Disp. máx. 60.
+Disparo perforador con el<NEWLINE>mayor número de alcances.<NEWLINE>Disparos máx. 60.
+Abarca una gran zona. Al-<NEWLINE>cances múltiples al estar<NEWLINE>cerca. Disp. máx 60.
+Abarca una gran zona.<NEWLINE>Más alcances que la<NEWLINE>de Nv1. Disp. máx. 60.
+Abarca una gran zona.<NEWLINE>La mejor de su clase.<NEWLINE>Disp. máx. 60.
+Penetra y explota en el <NEWLINE>objetivo. Muy potente <NEWLINE>y aturdidor. Disp. máx. 9.
+Muy potente y aturdidor<NEWLINE>que penetra y explota en<NEWLINE>el objetivo. Disp. máx. 9.
+Disparo aturdidor de gran<NEWLINE>potencia que penetra y<NEWLINE>explota. Disp. máx. 9.
+Al impactar se divide en<NEWLINE>3 bombas. Cuidado con el<NEWLINE>impacto. Disp. máx. 3.
+Al impactar se divide en<NEWLINE>4 bombas. Cuidado con el<NEWLINE>impacto. Disp. máx. 3.
+Al impactar se divide en<NEWLINE>5 bombas. Cuidado con el<NEWLINE>impacto. Disp. máx. 3.
+Disparo efectivo contra<NEWLINE>monstruos vulnerables<NEWLINE>al fuego. Disp. máx. 60.
+Disparo efectivo contra<NEWLINE>monstruos vulnerables<NEWLINE>al agua. Disp. máx. 60.
+Disparo efectivo contra<NEWLINE>monstruos vulnerables<NEWLINE>al trueno. Disp. máx. 60.
+Disparo efectivo contra<NEWLINE>monstruos vulnerables<NEWLINE>al hielo. Disp. máx. 60. 
+Munición misteriosa, no<NEWLINE>se puede usar en Ballestas<NEWLINE>normales. Disp. máx. 3.
+Balas de dispersión de cuchi-<NEWLINE>lla que cortan al impactar.<NEWLINE>Puede cortar colas. Max. 30.
+Envenena al objetivo.<NEWLINE>Pueden necesitarse varios<NEWLINE>disparos. Disp. máx. 12.
+Usa veneno más fuerte.<NEWLINE>Pueden necesitarse varios<NEWLINE>disparos. Disp. máx. 8.
+Paraliza objetivo.<NEWLINE>Pueden necesitarse varios<NEWLINE>disparos. Disp. máx. 12.
+Parálisis más fuerte.<NEWLINE>Pueden necesitarse varios<NEWLINE>disparos. Disp. máx. 8.
+Duerme al objetivo.<NEWLINE>Pueden necesitarse varios<NEWLINE>disparos. Disp. máx. 12.
+Sueño más potente.<NEWLINE>Pueden necesitarse varios<NEWLINE>disparos. Disp. máx. 8.
+Bala especial que drena<NEWLINE>al monstruo de su resistencia.<NEWLINE>Disp. máx. 12.
+Versión mejorada de bala<NEWLINE>que drena al monstruo de su<NEWLINE>resist. Disp. máx. 8.
+Restablece ligeramente<NEWLINE>la Salud del objetivo.<NEWLINE>Disparos máx. 12.
+Restablece moderadamente<NEWLINE>la Salud del objetivo.<NEWLINE>Disparos máx. 12.
+Otorga al objetivo la<NEWLINE>fuerza de Asura.<NEWLINE>Disparos máx. 5.
+Endurece la piel del<NEWLINE>objetivo como una piedra.<NEWLINE>Disparos máx. 5.
+Tranquiliza a grandes<NEWLINE>monstruos atrapados. Disp.<NEWLINE>máx. 8.
+Da la posición del mons-<NEWLINE>truo en mapa durante cier-<NEWLINE>to tiempo. Disp. máx. 99.
+ninguno
+Una botella sin ningún<NEWLINE>contenido. Ni más, ni<NEWLINE>menos.
+Los arcos cargados con <NEWLINE>esta botella tienen un<NEWLINE>mayor ataque. Máx. 50.
+Mayor potencia a corto <NEWLINE>alcance y Afilado cuerpo <NEWLINE>a cuerpo. Máx 20.
+Los arcos cargados con<NEWLINE>esta botella envenenan <NEWLINE>al enemigo. Máx. 20.
+Los arcos cargados con<NEWLINE>esta botella paralizan <NEWLINE>al enemigo. Máx. 20.
+Los arcos cargados con<NEWLINE>esta botella dormirán <NEWLINE>al enemigo. Máx. 20.
+Los arcos cargados con<NEWLINE>esta botella cansarán <NEWLINE>al enemigo. Máx. 20.
+El arco cargado con éste<NEWLINE>hará aparecer los mons-<NEWLINE>truos en el mapa. Máx. 99.
+Lombriz de tierra para<NEWLINE>pescar. Con 5 mejorará la<NEWLINE>fertilidad del suelo.
+Cebo volador que hará<NEWLINE>saltar al instante a<NEWLINE>cualquier tipo de pez.
+El cebo favorito del<NEWLINE>Pez dorado.
+Cebo que prefieren los<NEWLINE>peces que explotan<NEWLINE>cuando mueren.
+Cebo que permite capturar<NEWLINE>diferentes tipos de peces.
+Te permiten observar<NEWLINE>desde lejos.
+Desperdicios que se crean<NEWLINE>cuando no se logra hacer<NEWLINE>una combinación.
+Peligroso dispositivo para<NEWLINE>atraer ciertos monstruos.<NEWLINE>Puede romperse al usarse.
+Restablece la Salud de<NEWLINE>quienes la escuchan.<NEWLINE>Puede romperse al usarse.
+Elimina el veneno de la<NEWLINE>sangre de quienes la<NEWLINE>escuchan. Puede romperse.
+Aumenta la fuerza de<NEWLINE>quienes la escuchan.<NEWLINE>Puede romperse al usarse.
+Aumenta la dureza de<NEWLINE>quienes la escuchan.<NEWLINE>Puede romperse al usarse.
+Miel normal.<NEWLINE>Muy nutritiva.
+Planta que restablece<NEWLINE>ligeramente la Salud.
+Planta de campo con<NEWLINE>propiedades de antídoto. <NEWLINE>No confíes mucho en ella.
+Planta con propiedades<NEWLINE>inflamables.
+Planta con propiedades<NEWLINE>congelantes.
+Una planta ultraligera y<NEWLINE>extremadamente fuerte.
+Planta con propiedades<NEWLINE>somníferas. Se puede<NEWLINE>plantar en el campo.
+Planta que deja una capa<NEWLINE>de savia pegajosa. No es<NEWLINE>fácil de eliminar.
+Encanta a los Melynx.<NEWLINE>No pueden resistirse<NEWLINE>a su encanto.
+Contiene sustancias<NEWLINE>antídoto, pero no tiene<NEWLINE>efecto por sí misma.
+Arde en cuanto se muerde.<NEWLINE>Te calienta, pero quema<NEWLINE>demasiado.
+Flor que emite el olor<NEWLINE>favorito de los insectos.<NEWLINE>~C05(Obj. granja)
+Extraña seta que<NEWLINE>aumenta la potencia.
+Extraña seta con el<NEWLINE>poder de generar calor.
+Seta con un<NEWLINE>efecto de parálisis.
+Hongo venenoso.<NEWLINE>Tal vez tenga otros<NEWLINE>efectos...
+Seta con un aroma<NEWLINE>muy extraño. ¿Qué pasará<NEWLINE>si te la comes...?
+Hongo que contiene ingre-<NEWLINE>dientes que dan Resistencia.
+Hongo peligroso que dicen<NEWLINE>que arrebata la vida<NEWLINE>a las personas. Cuidado.
+Hongo gigante con ingredientes<NEWLINE>que causan Parálisis. Manejar<NEWLINE>con cuidado.
+Este hongo puede ser usado<NEWLINE>para labores de mineria.<NEWLINE>~C05(Obj. granja)
+Baya que libera un jugo<NEWLINE>similar a pintura al ser<NEWLINE>rota. Se puede plantar.
+Aumenta temporalmente el<NEWLINE>poder de Ataque. En crudo,<NEWLINE>efecto pasajero. Planta.
+Aumenta temporalmente la<NEWLINE>Defensa al comerla.<NEWLINE>Muy vigorizante.
+Misteriosa baya que cura los<NEWLINE>estados alterados por agua,<NEWLINE>hielo, trueno y fuego.
+Baya misteriosa, se dice<NEWLINE>que los dragones la odian.
+Fruto seco que se rompe<NEWLINE>en pedazos al sufrir<NEWLINE>un impacto.
+Baya cubierta de espinas<NEWLINE>parecidas a agujas. Se<NEWLINE>puede disparar y plantar.
+Tiene un surco en espiral. Se<NEWLINE>entierra cuándo dado cae.<NEWLINE>Puede ser plantado en el campo.
+Baya que explota<NEWLINE>al sufrir<NEWLINE>un impacto.
+Extraña semilla roja de<NEWLINE>variedad desconocida. Se<NEWLINE>planta en el campo.
+Extraña semilla verde de<NEWLINE>variedad desconocida. Se<NEWLINE>planta en el campo.
+Una semilla de color naranja.<NEWLINE>Dejala crecer y se convertirá<NEWLINE>en un gigante.
+Madera de calidad que crece en<NEWLINE>las montañas cerca de la villa<NEWLINE>Yukumo. Facil de manejar.
+Madera de calidad que crece en<NEWLINE>las montañas cerca de la villa<NEWLINE>Yukumo. Muy popular.
+Cenizas nutritivas. Una unidad<NEWLINE>maximiza la fertilidad de una<NEWLINE>hilera. ~C05(Obj. granja)
+Pez con aleta dorsal lo<NEWLINE>bastante dura como para<NEWLINE>afilar armas.
+Delicioso pez que<NEWLINE>restablece un poco de<NEWLINE>Salud al consumirlo.
+Un pez con propiedades<NEWLINE>somníferas.
+Un pez con la mandíbula<NEWLINE>cubierta de púas.
+Pez que se abre en dos<NEWLINE>al matarlo.
+Pez que se rompe en<NEWLINE>pedazos al matarlo.
+Pez que revienta y se<NEWLINE>abre al matarlo.
+Pez que explota al<NEWLINE>matarlo.
+Raro pez dorado pequeño.<NEWLINE>Tiene un precio muy<NEWLINE>alto. 
+Pescado con efecto de Fatiga.
+Un precioso pez que se<NEWLINE>puede usar casi entero<NEWLINE>como material. 
+Un pez que emite luz azul.<NEWLINE>Su cuerpo afilado te hará<NEWLINE>picadillo si no tienes cuidado.
+Un marisco raro con<NEWLINE>una perla adentro.
+Pesque con escalas muy<NEWLINE>grandes. Su nivel rivaliza<NEWLINE>con el acero.
+La piel de un pez carnívoro que<NEWLINE>vive lo largo de la playa Moga.<NEWLINE>Deseado por su rara aparición.
+Los restos de un<NEWLINE>insecto muerto.
+Una oruga peculiar. La pesca<NEWLINE>es fácil por sus marcas;<NEWLINE>Su aroma causa un frenesí.
+Saltamontes con horrible olor.<NEWLINE>Haga cebos con eso; Su perfume<NEWLINE>vuelve loco al pez explosivo.
+Larva como una serpiente.<NEWLINE>Le encanta al pez dorado. <NEWLINE>Gran cebo de pesca.
+Insecto que supuestamente<NEWLINE>vive mil años.
+Contiene esencia amarga.<NEWLINE>50%% de posibilidades de<NEWLINE>neutralizar el veneno.
+Insecto que emite un<NEWLINE>potente destello<NEWLINE>al morir.
+Insecto que desprende<NEWLINE>electricidad al golpearlo.<NEWLINE>Diversas aplicaciones.
+Sus viscosos fluidos y<NEWLINE>sus mandíbulas afiladas lo<NEWLINE>convierten en un artesano.
+Insecto con concha <NEWLINE>dura y alas brillantes. Se<NEWLINE>usa como abrasivo. 
+Dicen que es el bicho más<NEWLINE>fuerte del mundo. Se usa<NEWLINE>para fabricar equipos.
+Insecto eléctrico que han sido<NEWLINE>estimulado por Zinogre. Emiten<NEWLINE>una luz de azul claro.
+La clase real de los<NEWLINE>escarabajos, con concha<NEWLINE>dura y alas brillantes.
+Insecto raro y preciado.<NEWLINE>Aumenta el poder de<NEWLINE>los objetos metálicos.
+Bello grillo semejante a una<NEWLINE>flor. Su sonido llega a lo mas<NEWLINE>profundo del corazón.
+Insecto con mandíbula grande<NEWLINE>de un escarabajo y las alas<NEWLINE>delicadas de una mariposa.
+Pequeña roca.<NEWLINE>Se puede lanzar.
+El hierro se puede fundir<NEWLINE>en metal y usar para<NEWLINE>distintos fines.
+Restos cristalizados de<NEWLINE>organismos microbióticos.<NEWLINE>Valiosa arma abrasiva.
+Mejor que el hierro. Se<NEWLINE>usa para hacer Machalita.<NEWLINE>Llamado Piedra gorrión.
+Técnicamente no el mineral del<NEWLINE>todo, sino más bien un hueso<NEWLINE>prehistórico.
+Formado de huesos prehistóricos<NEWLINE>bajo la presión alta. Rara vez<NEWLINE>se encuentran bajo tierra.
+Un metal precioso con usos<NEWLINE>específicos. Tiene una luz<NEWLINE>blanco puro.
+Cristal de brillo tenue.<NEWLINE>Muy duro, se usa para<NEWLINE>herramientas en armería.
+Mejor que la Machalita.<NEWLINE>De gran valor. También<NEWLINE>llamado Piedra dragón.
+La roca derretida del cuerpo de<NEWLINE>Uragaan o Agnaktor. Los minera-<NEWLINE>les dentro de ella son mixtos.
+A temperatura ambiente ar-<NEWLINE>de. Mezclar con materiales<NEWLINE>adecuados. Piedra Fénix.
+Mineral experimental<NEWLINE>llamado Piedra espíritu.<NEWLINE>Mejor que la Dragonita.
+Un metal precioso con<NEWLINE>incontables usos. Tiene un<NEWLINE>brillo blanco puro.
+Contiene un metal que se <NEWLINE>puede fundir con otro<NEWLINE>material. 
+Un metal precioso con usos<NEWLINE>específicos. Tiene un brillo<NEWLINE>azul claro. Es valioso.
+Un mineral similar al<NEWLINE>magma. Sólo para expertos.<NEWLINE>Llamado ojo de águila.
+No se derretirá a<NEWLINE>temperatura ambiente. Sube<NEWLINE>la densidad del mineral.
+Piedra hermosa que tiene<NEWLINE>siete colores. Raro y valioso.
+Hueso muy desgastado.<NEWLINE>No es bastante resistente<NEWLINE>para combinarlo.
+Cráneo animal. Desgastado<NEWLINE>y erosionado, no se<NEWLINE>puede identificar.
+Un simple hueso. Muy<NEWLINE>desgastado y erosionado.<NEWLINE>No se puede identificar.
+Material muy útil,<NEWLINE>indispensable para la caza<NEWLINE>y la vida cotidiana.
+Más útiles que los huesos<NEWLINE>pequeños. Se tallan<NEWLINE>para hacer objetos.
+Crucial para crear objetos<NEWLINE>de una pieza. Se puede<NEWLINE>unir a una concha.
+De gran calidad.<NEWLINE>Difícil de encontrar<NEWLINE>pero casi irrompible.
+Un hueso raro con una punta<NEWLINE>afilada como una navaja, que<NEWLINE>mantiene su fuerza.
+El hueso más especial de<NEWLINE>monstruo. De gran fuerza,<NEWLINE>pero difícil de trabajar.
+Un hueso de un Jaggi u otro<NEWLINE>wyverno. En tamaño pequeño, <NEWLINE>pero de gran calidad.
+Hueso gordo y grande. Se <NEWLINE>puede cortar en taller<NEWLINE>para fabricar material.
+Hueso duro y resistente de<NEWLINE>un bruto. Rígido. Ideal<NEWLINE>para la fabricación.
+Hueso que curiosamente no se<NEWLINE>fosilizo de un dragón que algu-<NEWLINE>na vez vagó por la tierra.
+Se usa para hacer munición<NEWLINE>de Ballesta. Con explosivo<NEWLINE>los disparos se expanden.
+Se usa para hacer munición<NEWLINE>de Ballesta. La pólvora provoca<NEWLINE>una explosión de un gran radio.
+Una gema valiosa que se<NEWLINE>puede conseguir de Jaggi y<NEWLINE>wyvernos <NEWLINE>
+Objeto único formado al<NEWLINE>endurecerse materiales<NEWLINE>dentro de un Wyvern.
+Contiene un ingrediente<NEWLINE>desconocido. Objeto de<NEWLINE>estudios académicos.
+Órgano interno de un<NEWLINE>monstruo. Al romperlo<NEWLINE>emite un sonido agudo.
+Órgano interno de un<NEWLINE>monstruo. Contiene un<NEWLINE>veneno letal.
+Órgano interno de un<NEWLINE>monstruo lleno de toxinas.<NEWLINE>Peligro con sólo tocarlo.
+Órgano interno de un<NEWLINE>monstruo lleno de una<NEWLINE>neurotoxina que paraliza.
+Un órgano de monstruo llenó de<NEWLINE>neurotoxinas potentes. Un solo<NEWLINE>toque puede causar parálisis.
+Órgano interno de un<NEWLINE>monstruo lleno de polvo<NEWLINE>que provoca somnolencia.
+Órgano interno de un<NEWLINE>monstruo lleno de un<NEWLINE>polvo que causa coma.
+Órgano interno de un<NEWLINE>monstruo. Contiene un<NEWLINE>polvo muy inflamable.
+Órgano interno de un<NEWLINE>monstruo lleno de polvo<NEWLINE>que arde al tocarlo.
+Un órgano del monstruo diseña-<NEWLINE>do para sujetar y conservar<NEWLINE>agua.
+Un órgano de monstruo diseñado<NEWLINE>para sujetar y conservar gran<NEWLINE>cantidad de agua.
+Órgano interno de un<NEWLINE>monstruo. Contiene energía<NEWLINE>eléctrica sin igual.
+Un órgano de un monstruo que <NEWLINE>contiene líquido bajo cero.<NEWLINE>Manipulelo con cuidado.
+Un órgano de un monstruo con<NEWLINE>un poder extremadamente<NEWLINE>congelante.
+Extracto de algunos mosntruos.<NEWLINE>Un extracto misterioso que<NEWLINE>aumenta la resistencia.
+Un extracto especial es eficaz<NEWLINE>para duplicar el efecto de<NEWLINE>ciertas medicinas.
+Se puede mezclar con los<NEWLINE>jugos del estómago de un<NEWLINE>insecto como adhesivo.
+Un caldo hecho únicamente<NEWLINE>con los jugos más densos<NEWLINE>de un monstruo. Muy rico.
+Una pluma grande, hermosa<NEWLINE>arrancada de una Gargwa. Usado<NEWLINE>como un accesorio de moda.<NEWLINE>
+Las infusiones de cuerno<NEWLINE>de Kelbi en polvo se usan<NEWLINE>como medicina.
+Una piel peluda de un animal<NEWLINE>pequeño. Usado en su mayor<NEWLINE>parte simplemente ropa normal.<NEWLINE>
+Una piel peluda de un animal<NEWLINE>pequeño. Usado en su mayor par-<NEWLINE>te simplemente ropa normal.<NEWLINE>
+Cuernos de un Anteka.<NEWLINE>En armas, armaduras,<NEWLINE>y decoración interior.
+Una concha muy fuerte,<NEWLINE>considerando que proviene de<NEWLINE>un monstruo tan pequeño.<NEWLINE>
+Un caparazón muy fuerte,<NEWLINE>considerando que proviene de<NEWLINE>un monstruo tan pequeño.<NEWLINE>
+Una parte robusta del cráneo<NEWLINE>que rinde, digamos, ¿resultados<NEWLINE>deslumbrantes?<NEWLINE>
+Piel firme y brillante, a<NEWLINE>menudo cortada en grandes<NEWLINE>partes. Es resistente al agua.
+Piel firme y brillante, es<NEWLINE>cortada en grandes partes. Es<NEWLINE>muy resistente al agua.
+Esta vienen en muchas formas y<NEWLINE>tamaños. La aleta correcta para<NEWLINE>el trabajo correcto.
+Esta vienen en muchas formas y<NEWLINE>tamaños. La mejor aleta para el<NEWLINE>mejor trabajo.
+Los dientes son de muchas<NEWLINE>formas. Este es un colmillo<NEWLINE>muy afilado
+La demanda de esta piel de cri-<NEWLINE>aturas de cuerpo blando es li-<NEWLINE>mitada, y el precio es bajo.
+Igual de robusta como<NEWLINE>armadura del wyveron en las<NEWLINE>manos del artesano correcto.<NEWLINE>
+La parte más dura de la concha.<NEWLINE>Revela propiedades curiosas cu-<NEWLINE>ándo es alterada.
+Difícil de usar, el resultado<NEWLINE>varia dependiendo de cuál<NEWLINE>superficie utilice.
+Un aguijón de Bnahabra.<NEWLINE>Secreta un fluido paralizante.<NEWLINE>
+Estas piezas vocales<NEWLINE>duraderas son sorprendente.
+Bolsa transparente de<NEWLINE>el abdomen de Altaroth,<NEWLINE>Usado para almacenar.
+Bolsa transparente de<NEWLINE>el abdomen de Altaroth,<NEWLINE>Son para almacenar.<NEWLINE>
+Pelo de Bullfango. Está<NEWLINE>cubierto de cerdas.
+Cabeza de Bullfango con un<NEWLINE>par de enormes colmillos.
+Piel de Bulldrome cubierta<NEWLINE>de cerdas. Extrañamente<NEWLINE>bonita.
+El cuero resistente de<NEWLINE>un Bulldrome. Es <NEWLINE>puro.
+Majestuoso colmillo de<NEWLINE>Bulldrome. Su superficie<NEWLINE>señala muchas batallas.
+Una escama de un Jaggi.<NEWLINE>No muy valioso, pero al iniciar<NEWLINE>no puedes ser quejumbrosos.<NEWLINE>
+Una escama de un Jaggi.<NEWLINE>No muy valioso, pero no<NEWLINE>puedes ser quejumbrosos.<NEWLINE>
+Comúnmente usado en esta<NEWLINE>región. Puede ser convertido en<NEWLINE>cualquier número de cosas.<NEWLINE>
+Los colmillos similares al<NEWLINE>del Velociprey. Usado para<NEWLINE>hacer municiones de ballesta.<NEWLINE>
+Que vale más que la piel de un<NEWLINE>Jaggi. Puede ser convertido en<NEWLINE>varias cosas.
+Que vale más que la piel de un<NEWLINE>Jaggi. Puede ser convertido en<NEWLINE>un gran numero de cosas.
+Garra cortada de un lider<NEWLINE>de una manada. Principalmente<NEWLINE>usado para elaborar armas.
+Garra cortada de un gran lider<NEWLINE>de una manada. Principalmente<NEWLINE>usado para elaborar armas.
+La prueba de quién es el alpha<NEWLINE>entre los Jaggi, y ahora la<NEWLINE>prueba de que eres un cazador.
+Este abanico sería<NEWLINE>verdaderamente impresionantes.<NEWLINE>Si no estuviesen en a ellos.
+El matiz inusual de esta<NEWLINE>escama es para advertir que<NEWLINE>el Wroggi es venenoso.
+Una escama del gran Wroggi.<NEWLINE>Su espesor sugiere a la bestia<NEWLINE>vivió bastante.
+El cuero con un brillo<NEWLINE>naranjado brillante. Adecuado<NEWLINE>para elaborar equipo.
+Un colmillo que suelta un<NEWLINE>veneno potente que puede<NEWLINE>envenenar monstruos grandes.
+Piel de dos tonos del Gran<NEWLINE>Wroggi. Sirve para tapicería.
+Cuero de color vivido de un<NEWLINE>Gran Wroggi. Usado para hacer<NEWLINE>armadura.
+Concha del Gran Wroggi gruesa<NEWLINE>como las escalas y las garras.
+Concha dura del Gran Wroggi.<NEWLINE>Es resistente y dura como las<NEWLINE>garras.
+Pico del Gran Wroggi, equipado<NEWLINE>con un órgano que produce ve-<NEWLINE>neno. ¡Mucho cuidado!
+Parecidas a las del Jaggi las<NEWLINE>escamas del Baggi superior<NEWLINE>tienen un valor similar.<NEWLINE>
+De un hábitat lejano las esca-<NEWLINE>mas de Baggi tiene un valor un<NEWLINE>poco mayor que las de Jaggi.
+De un hábitat lejano las piel<NEWLINE>de Baggi tiene un valor un<NEWLINE>poco mayor que las de Jaggi.
+Una piel con heridas prueba<NEWLINE>del duro ambiente del que<NEWLINE>viene.
+Una piel con muchas heridas<NEWLINE>prueba del duro ambiente del<NEWLINE>que viene.
+Garra cortada del Gran Baggi.<NEWLINE>Principalmente usada para ela-<NEWLINE>borar armas.
+Garra cortada del Gran Baggi.<NEWLINE>Principalmente usada para ela-<NEWLINE>borar mejores armas.
+La prueba de quién es el jefe<NEWLINE>entre los Baggi.
+Un piel obtenida del Arzuros.<NEWLINE>El pelaje blanco es suave,<NEWLINE>mientras el azul es aspero.
+Mechón de pelo obtenido<NEWLINE>del Arzuros. Es grueso para<NEWLINE>protegerlo en las montañas.<NEWLINE><NEWLINE>
+Un pedazo de la concha de<NEWLINE>la cabeza del Arzuros. <NEWLINE>Es fácil de usar.<NEWLINE>
+Un caparazón de calidad<NEWLINE>del Arzuros. La gruesa concha<NEWLINE>puede aguantar mordiscos.<NEWLINE>
+Brazal de las patas delanteras<NEWLINE>del Arzuros. Su punta le da al<NEWLINE>equipo un toque salvaje.<NEWLINE>
+Brazal fuerte del Arzuros.<NEWLINE>Su espina causan golpes<NEWLINE>mortales.<NEWLINE>
+Pelo blanco de un Lagombi. Es<NEWLINE>muy suave. 
+Pelo de calidad del Lagombi.<NEWLINE>Su brillo, hace que sea un <NEWLINE>objeto de lujo. 
+Larga oreja de un Lagombi.<NEWLINE>Tiene concha por el duro habi-<NEWLINE>tad del que viene.
+Oreja impresionante Lagombi.<NEWLINE>Desarrollada al máximo, puede<NEWLINE>oírlo todo a gran distancia.
+Pedazo de escama de la barriga<NEWLINE>del Lagombi. Su forma permiten<NEWLINE>al Lagombi deslizarse en hielo.
+Un escama robusta del Lagombi.<NEWLINE>Fuerte y resistente, se usa<NEWLINE>para mejorar el equipo.
+Garra Lagombi que es fría al<NEWLINE>tacto. Era cubierta en hielo<NEWLINE>debido a los climas fríos.
+Garra del Lagombi rodeada por<NEWLINE>aire frío. Las heridas que<NEWLINE>causa se congelan.
+Caparazón de un Volvidon.<NEWLINE>Resiste muy bien la lava.
+Caparazón grueso del Volvidon.<NEWLINE>Su elasticidad le ayuda a <NEWLINE>rodar en forma de esfera.
+Garra de la pata delantera del<NEWLINE>Volvidon. Son muy afiladas.
+Una garra dura y afilada del<NEWLINE>Volvidon. Por el calor es dura<NEWLINE>como el acero.
+Caparazón interno del<NEWLINE>Volvidon. Es ideal para<NEWLINE>elaborar encajes.
+Una escama oculta del plumaje.<NEWLINE>A los niños del pueblo les<NEWLINE>encanta.
+Una escama hermosa. Tiene<NEWLINE>colores muy hermosos.
+Pluma con una gran elegancia.<NEWLINE>A menudo usado para elaborar<NEWLINE>recuerdos.
+Ala con elegancia tropical.<NEWLINE>Tiene un brillo que la hace<NEWLINE>relumbrar.
+Pluma colorida. Frágil, pero<NEWLINE>brilla intermitentemente.
+Forma extraña para un pico de<NEWLINE>ave, sirve para amplificar el<NEWLINE>sonido.
+Pico de ave raramente visto,<NEWLINE>es sin duda precioso.
+La parte del cuerpo que un<NEWLINE>Qurupeco usa para atacar.<NEWLINE>Es parecido al pedernal.
+Escala superior oculta por un<NEWLINE>plumaje carmesí. Sus distintas<NEWLINE>capas le provee de fuerza.
+El ala de un Qurupeco Carmesí.<NEWLINE>Las mujeres de la nobleza son<NEWLINE>atraídas por su color rojizo.
+Mineral del Qurupeco carmesí<NEWLINE>que genera electricidad. Se<NEWLINE>puede obtener al romperlo.
+Altamente resistente al agua,<NEWLINE>pero no esperes que valga<NEWLINE>mucho.
+Increíble resistencia al agua,<NEWLINE>pero aun así su valor no es<NEWLINE>alto.
+El material esponjoso.<NEWLINE>Buscado para el uso diario.
+Una piel misteriosamente<NEWLINE>elástico. Excelente para<NEWLINE>alejar el frío.
+Piel misteriosamente<NEWLINE>elástico. Excelente para<NEWLINE>alejar y proteger del frío.
+Escama pequeña de un wyvern.<NEWLINE>Necesitarás bastante de esto<NEWLINE>para crear algo.
+Escama de calidad de un<NEWLINE>wyvern. Necesitarás bastante<NEWLINE>de esto para crear algo.
+Estas garras son adaptadas<NEWLINE>para el movimiento para<NEWLINE>atacar.
+Estas garras son adaptadas<NEWLINE>para mejorar el movimiento<NEWLINE>para atacar.
+Piel que se hace rígida cuando<NEWLINE>está enojada; la cantidad de<NEWLINE>la piel es muy alta.
+Esta piel exclusiva es de alta<NEWLINE>calidad; es rara y la calidad-<NEWLINE>precio es la mejor.
+La cola Ludroth Real. Los<NEWLINE>lugareños lo usan para<NEWLINE>construcción naval.
+Piel misteriosamente elástica.<NEWLINE>La coloración Púrpura viene de<NEWLINE>las toxinas que hay dentro.
+Una escama blanca de un<NEWLINE>Ludroth purpúreo. Son<NEWLINE>accesorios populares. 
+Una garra roja de un Ludroth<NEWLINE>purpúreo. Adaptadas para mejo-<NEWLINE>rar el movimiento para atacar.
+Caparazón del Barroth. cada<NEWLINE>vez mas popular, tiene intere-<NEWLINE>santes propiedades.
+Caparazón del Barroth. cada<NEWLINE>vez mas popular, tiene propie-<NEWLINE>dades especiales.
+Lomo del Barroth. Menos común<NEWLINE>que el caparazón Barroth, por<NEWLINE>consiguiente tiene más valor.
+Un mejor lomo del Barroth. por<NEWLINE>consiguiente tiene un valor<NEWLINE>incluso mayor.
+No muy afilada, pero lo sufi-<NEWLINE>ciente fuerte como para resul-<NEWLINE>tar muy versátil.
+No esta afilada, pero es tan<NEWLINE>fuerte que es muy útil para<NEWLINE>hacer equipos.
+Esta parte el cráneo es tan<NEWLINE>duro que lo utiliza para<NEWLINE>cambiar de dirección.
+Esta cola no tiene demasiado<NEWLINE>valor, pero se sabe que es una<NEWLINE>delicadeza.
+Barro que recubre al Barroth.<NEWLINE>Es rico en nutrientes y se usa<NEWLINE>para cultivar.
+Un caparazón recubierto de<NEWLINE>hielo del Barroth esmeralda.<NEWLINE>Es hermosa.
+Lomo recubierto de hielo del<NEWLINE>Barroth esmeralda. Duro para<NEWLINE>cambiar de dirección.
+Garra del Barroth esmeralda.<NEWLINE>Es tan fría que puede causar<NEWLINE>quemadura por congelación.
+Cresta del Barroth esmeralda<NEWLINE>asemeja a una corona de hielo. 
+Una cola congelada. La parte<NEWLINE>de adentro se ha fermentado,<NEWLINE>y a mejorado su sabor.
+Barro del Barroth esmeralda<NEWLINE>que se mezcló con la nieve.<NEWLINE>Nunca se derrite.
+Un pedazo de concha de un<NEWLINE>Nibelsnarf. Su protuberancias<NEWLINE>son muy duras.
+Concha endurecida del<NEWLINE>Nibelsnarf. Difícil de traba-<NEWLINE>jar, pero vale la pena.
+Piel de un Nibelsnarf. Muchos<NEWLINE>están sorprendidos por sus<NEWLINE>colores.
+Piel de calidad del Nibelsnarf<NEWLINE>usada para armaduras. Es tan<NEWLINE>fuerte que resiste el desierto.
+Garra del Nibelsnarf han evo-<NEWLINE>lucionado para poder atravesar<NEWLINE>la arena.
+Garra firme del Nibelsnarf.<NEWLINE>Ideal como material para<NEWLINE>realizar equipo superior.
+Cráneo de un Nibelsnarf. Los<NEWLINE>pedazos útiles deben ser<NEWLINE>recortados cuidadosamente.
+Fluido brillante de un Nibel-<NEWLINE>snarf le ayuda a prosperar en<NEWLINE>el desierto.
+Un fluido con una fuerte<NEWLINE>retención de agua. Mejora el<NEWLINE>desempeño de la maquinaria.
+Piel para elaborar distintos<NEWLINE>productos. Tiene propiedades<NEWLINE>fuera de lo ordinario.
+Piel difícil de manejar. <NEWLINE>Tiene propiedades especiales<NEWLINE>y misteriosas.
+Piel que cambiaba de color<NEWLINE>cuando su dueño estaba todavía<NEWLINE>vivo.
+La piel cambiaba de color<NEWLINE>para aterrar a las víctimas.<NEWLINE>Es de alta calidad.
+Artículo difícil de obtener;<NEWLINE>conseguir uno del Gigginox<NEWLINE>no es cosa fácil.
+Es demasiado difícil de obte-<NEWLINE>ner; conseguirlo del Gigginox<NEWLINE>es una tarea ardua.
+La mandíbula distintiva del<NEWLINE>Gigginox. Algunos dicen que<NEWLINE>se parece a los Khezu.
+Glándula venenosa que brilla<NEWLINE>en la oscuridad. Se retuerce<NEWLINE>aún después de cortarlo.
+Glándula muy venenosa que<NEWLINE>brilla en la oscuridad. Mucho<NEWLINE>cuidado al usarla.
+Piel de calidad de la barriga<NEWLINE>del Gigginox. Su textura es de<NEWLINE>primera clase.
+Una garra del Gigginox de un<NEWLINE>color inusual. La electricidad<NEWLINE>todavía pasa través de ella.
+Escama de Rathian, pro-<NEWLINE>tectora de nidos. Su pare-<NEWLINE>ja es el Rathalos macho.
+La escama de Rathian.<NEWLINE>Parece normal, pero su<NEWLINE>dureza no lo es.
+Concha de Rathian,<NEWLINE>formada por numerosas<NEWLINE>escamas. Muy dura.
+Más duro que una concha<NEWLINE>de Rathian. Este material<NEWLINE>también se llama Gravita.
+Material resistente al<NEWLINE>calor a menudo usado como<NEWLINE>tela de armadura.
+Pelos como púas de la<NEWLINE>espalda y alas de una<NEWLINE>Rathian. Venenosos.
+Tan afilada como el filo del<NEWLINE>cuchillo más afilado. Es larga<NEWLINE>y más robusta.
+Feroz escama de la cola<NEWLINE>de una Rathian.
+Una gema rara y preciosa<NEWLINE>del interior de un Wyvern.<NEWLINE>Demasiado bella para usar.
+Escama del cuerpo de una<NEWLINE>Rathian dorada.<NEWLINE>Brilla, incluso por la noche.
+Una concha dura cubierta en<NEWLINE>oro. Brillante como un lingote<NEWLINE>de oro.
+El pelo y aguja de la Rathian<NEWLINE>dorada contienen un veneno<NEWLINE>extremadamente potente.
+Escama de un Rathalos.<NEWLINE>Las escamas y conchas de<NEWLINE>un Wyvern son básicas.
+Escama de un Rathalos.<NEWLINE>Tiene una fuerza<NEWLINE>extraordinaria.
+Concha de un Rathalos,<NEWLINE>formada por numerosas<NEWLINE>escamas. Muy dura.
+Más duro que una concha<NEWLINE>de Rathalos. Este material<NEWLINE>también se llama Gravita.
+Material resistente al<NEWLINE>calor a menudo usado como<NEWLINE>tela de armadura.
+La cola cortada de un<NEWLINE>Rathalos. Tiene muchos<NEWLINE>tipos de usos.
+Escama feroz de la cola<NEWLINE>de un Rathalos.
+Una gema rara y preciosa<NEWLINE>del interior de un Wyvern.<NEWLINE>Demasiado bella para usar.
+Una escama de calidad del<NEWLINE>Rathalos plateado, solicitado<NEWLINE>para accesorio.
+Caparazon pesado del Rathalos<NEWLINE>plateado. Este artículo brilla<NEWLINE>con la luz de luna.
+Cola del Rathalos plateado. La<NEWLINE>belleza de esta vale más que<NEWLINE>la plata real.
+Crece en el ala del<NEWLINE>Wyvern de fuego. Puede<NEWLINE>ser arrancada en combate.
+Avances recientes permiten<NEWLINE>extraer este organo, ya que<NEWLINE>arde contacto de aire.
+Únicamente extraíble con<NEWLINE>las últimas tecnologías.<NEWLINE>Difícil de trabajar.
+Líquido producido solo de<NEWLINE>especies raras de wyverns.<NEWLINE>Brilla en la oscuridad.
+El caparazón de un Zinogre. Su<NEWLINE>grandeza revela la grandeza de<NEWLINE>enfrentarse al monarca.
+Caparazón turquesa de Zinogre.<NEWLINE>La armadura del monarca aplas-<NEWLINE>ta voluntades con su fuerza.
+Dicen que la piel de Zingore<NEWLINE>almacena gran cantidad de<NEWLINE>energia. Blanco brillante.
+Dicen que la piel de Zinogre<NEWLINE>almacena una cantidad infinita<NEWLINE>de electricidad. Intensa luz.
+Cuerno puntiagudo de Zinogre.<NEWLINE>Se usa para otorgar equipami-<NEWLINE>ento de incomparable poder.
+Un poderoso cuerno de Zinogre.<NEWLINE>Nadie puede resistirse a su<NEWLINE>poder abrumador.
+Garra de Zinogre con alta ten-<NEWLINE>sión eléctrica. Ataques elec-<NEWLINE>trificos realmente brutales.
+Garra de Zinogre rígida y con<NEWLINE>alta tensión eléctrica. Ataque<NEWLINE>que amenazan la existencia.
+La cola de Zinogre cubierta de<NEWLINE>placas. Empuña una fuerza mor-<NEWLINE>tal.
+Caparazón de Zinogre que al-<NEWLINE>macena y libera electricidad.<NEWLINE>¡Poder de un dios del trueno!
+Caparazón con poder eléctrico<NEWLINE>que desafia a los rayos. Gran<NEWLINE>efecto en el equipamiento.
+Placa muy rara y áspera que<NEWLINE>encarna el alma de un rey.
+Una joya creada ocasionalmente<NEWLINE>en el cuerpo de un Zinogre. El<NEWLINE>poder del monarca late dentro.
+Escama negra de Nargacuga. A<NEWLINE>pesar de su dureza, es muy<NEWLINE>liviana y suave.
+Escama de Nargacuga negra.<NEWLINE>Más gruesa que las escamas<NEWLINE>normales, pero aún liviana.
+Piel de un Nargacuga. Absorbe<NEWLINE>toda la luz y emite solo<NEWLINE>oscuridad.
+Piel negra de Nargacuga.<NEWLINE>Brillante y fuerte, re-<NEWLINE>siste garras y colmillos.
+La gran cola de Nargacuga.<NEWLINE>Podría confundirse con una<NEWLINE>arma si no la conoces.
+Escama de la cola de un<NEWLINE>Nargacuga. Se eriza cuando el<NEWLINE>monstruo se enfurece.
+Ala afilada de un Nargacuga.<NEWLINE>Puede atravesar a los enemigos<NEWLINE>en un instante.
+Ala fuerte de un Nargacuga.<NEWLINE>Extra dura, puede atravesara<NEWLINE>los enemigos en un solo golpe.
+Colmillo del Nargacuga.<NEWLINE>Evolucionó para desgarrar en<NEWLINE>vez de masticar.
+Colmillo de Nargacuga evoluci-<NEWLINE>onado. Audaz y afilado, puede<NEWLINE>cortar facilmente a la presa.
+Médula de Nargacuga. Requiere<NEWLINE>técnica para desprenderla.
+Medula de Nargacuga. Solo<NEWLINE>tocarla causa mucho dolor,<NEWLINE>haciendo dificil el proceso.
+Escama verde de Nargacuga.<NEWLINE>Su color cambia en la luz y<NEWLINE>se funde con el paisaje.
+Piel de un Nargacuga de pelaje<NEWLINE>verde. Los colores aleatorios<NEWLINE>actúan como camuflaje.
+Ala afilada y ancha de un<NEWLINE>Nargacuga verde. ¡No la toques<NEWLINE>o podrías perder una mano!
+Colmillo afilado de un<NEWLINE>Nargacuga verde. Más un diente<NEWLINE>que una cuchilla, ten cuidado.
+Caparazón blanco único. Fuerte<NEWLINE>y durable, pero muy liviano.
+Caparazón blanco único. Fuerte<NEWLINE>y durable, pero muy liviano.
+Piel blanca sedosa con ex-<NEWLINE>celentes propiedades para<NEWLINE>absorbir los golpes.
+Piel blanca sedosa con ex-<NEWLINE>celentes propiedades para<NEWLINE>absorbir los golpes.
+Garra afilada y mortal del<NEWLINE>antiguo dueño, usada para<NEWLINE>trepar paredes de hielo.
+Garra afilada y mortal del<NEWLINE>antiguo dueño, usada para<NEWLINE>trepar paredes de hielo.
+Vienen en varios tamaños y<NEWLINE>ayudan al Barioth a agarrarse<NEWLINE>a las paredes de hielo.
+Estas colas están cubiertas de<NEWLINE>una placa dura y son difíciles<NEWLINE>de cortar.
+Dos colmillos afilados de un<NEWLINE>Barioth, usados en armas y<NEWLINE>muebles.
+Dos colmillos afilados de un<NEWLINE>Barioth, usados en armas y<NEWLINE>muebles.
+Caparazón de Barioth arenoso<NEWLINE>color cobre. Resistente a<NEWLINE>tempestades de arena.
+Un pelaje delgado y<NEWLINE>de color cobre. Muy<NEWLINE>resistente a los impactos.
+Una garra afilada<NEWLINE>que proporciona tracción<NEWLINE>en terreno arenoso.
+Tronco de Barioth de arena.<NEWLINE>Recubierto de fina caparazón<NEWLINE>de cobre, es raro y caro.
+Dos colmillos afilados de<NEWLINE>un Barioth de arena. Brillan<NEWLINE>de color ultramar al pulir.
+Órgano que ayuda a respirar<NEWLINE>cuando Barioth arena hace<NEWLINE>tornados. Delgado pero fuerte.
+Escama dura que brilla<NEWLINE>débilmente en la luz por<NEWLINE>su contenido mineral único.
+A hard scale that glows<NEWLINE>faintly in the light due to<NEWLINE>its unique mineral content.
+This strong, sturdy piece of<NEWLINE>exoskeleton makes armor that<NEWLINE>looks dull but works great.
+This strong, sturdy piece of<NEWLINE>exoskeleton makes armor that<NEWLINE>looks dull but works great.
+A jaw of striking shape; the<NEWLINE>lumps are ore the Uragaan<NEWLINE>melted right onto the bone.
+Even more heat resistant than<NEWLINE>the Shell, this is said to<NEWLINE>protect sensitive organs.
+Hard-to-obtain bone marrow<NEWLINE>used for special crafts as<NEWLINE>well as medicinal purposes.
+A valuable gem only rarely<NEWLINE>plucked from an Uragaan.<NEWLINE>Adds strength when forging.
+A high-quality Steel Uragaan<NEWLINE>scale. A gas inside causes the <NEWLINE>ore to oxidize and glow.
+A carapace from a Steel Ura-<NEWLINE>gaan. The gas inside causes a<NEWLINE>fortifying chemical reaction.
+A giant red jaw from a Steel<NEWLINE>Uragaan. Heat produced upon<NEWLINE>impact causes change in color.
+Even more heat resistant than<NEWLINE>a normal shell, this scute can<NEWLINE>be submerged in boiling magma.
+Incomparably thick Duramboros<NEWLINE>shell. It cannot be damaged by<NEWLINE>ordinary monsters.
+A stiff Duramboros carapace.<NEWLINE>It can withstand attacks like<NEWLINE>an impenetrable aegis.
+A Duramboros shell covered in<NEWLINE>moss. The moss continues to<NEWLINE>grow even after being crafted.
+A Duramboros carapace covered<NEWLINE>in moss. The thick moss serves<NEWLINE>as a shock absorber.
+The hump from a Duramboros.<NEWLINE>The fatty skin makes sturdy,<NEWLINE>pliable gear when crafted.
+A shell from a Duramboros<NEWLINE>tail. New shell grows outwards<NEWLINE>and pushes the old away.
+A superior Duramboros tail-<NEWLINE>case. Slices and crushes using<NEWLINE>sharp shell and heavy bone.
+A horn of a Duramboros. Wider<NEWLINE>than a man's chest; all who<NEWLINE>see it are rendered voiceless.
+A rigid Duramboros horn.<NEWLINE>Nothing in the world can stop<NEWLINE>it during a vicious charge.
+A Duramboros's deadly tail-<NEWLINE>bone. Constant pounding has<NEWLINE>worn it to a spherical shape.
+A striking Duramboros sacrum.<NEWLINE>Such tough, symmetrical bones<NEWLINE>are considered rare materials.
+Scale from the incredibly<NEWLINE>violent Tigrex.<NEWLINE>Incredibly massive and sturdy.
+A flawless Tigrex scale. When<NEWLINE>interlocked, they can be<NEWLINE>harder than steel.
+A hard Tigrex shell<NEWLINE>capable of repelling any<NEWLINE>impact. Extreme tenacity. 
+Hardened by the sands of time.<NEWLINE>Its edges indicate a Tigrex's<NEWLINE>ferocity.
+This flexible and strong tail<NEWLINE>can make great equipment.
+A distinctive forelimb<NEWLINE>claw unseen on other wyverns.<NEWLINE>Fiendishly sharp.
+Sharpened by the sands of<NEWLINE>time. Said to be sharpened by<NEWLINE>the deaths of others.
+Nadie oculta el miedo<NEWLINE>a este terrible colmillo<NEWLINE>afilado por el dolor.
+Colmillo afilado de un<NEWLINE>Tigrex. Estos colmillos<NEWLINE>destrozan cualquier presa.
+The skull of the violent<NEWLINE>Tigrex. Just as dreadful as<NEWLINE>the living version.
+If you see these on live<NEWLINE>monsters... stay away from<NEWLINE>these bloody jaws!
+Scale from the insanely<NEWLINE>violent Black Tigrex.<NEWLINE>Incredibly massive and sturdy.
+A hard Black Tigrex shell<NEWLINE>capable of repelling any<NEWLINE>impact. Extreme tenacity. 
+A distinctive black forelimb<NEWLINE>claw unseen on other wyverns.<NEWLINE>Maliciously sharp.
+No one can hide their fear<NEWLINE>of this horrific black fang<NEWLINE>sharpened by pain itself.
+Parte de la concha que<NEWLINE>cubre al Diablos. Muy<NEWLINE>densa y pesada.
+Más dura que la concha de<NEWLINE>un Diablos. También se<NEWLINE>conoce como Gravita.
+A rock-hard backplate piece<NEWLINE>that can be used to make<NEWLINE>equipment if cut properly.
+The hardest part of a<NEWLINE>Diablos's backplate. Very<NEWLINE>difficult to carve off.
+An armored tailcase that<NEWLINE>puts iron hammers to shame.<NEWLINE>This material is a keeper.
+A large, sturdy fang used in<NEWLINE>everything from weapons to<NEWLINE>ornaments.
+A twisted Diablos horn.<NEWLINE>Used in this region for many<NEWLINE>（less twisted）purposes.
+A twisted Diablos horn in<NEWLINE>great shape. Use it to make<NEWLINE>more powerful weapons.
+It has recently been dis-<NEWLINE>covered that monster bone<NEWLINE>marrow works as an adhesive.
+A rare Diablos medulla.<NEWLINE>Difficult to remove, but of<NEWLINE>great interest to researchers.
+Composition differences make<NEWLINE>this carapace more resilient<NEWLINE>than a normal Diablos's.
+A hard Black Diablos backplate<NEWLINE>piece. Even hot desert winds<NEWLINE>can't erode such sturdiness.
+The twisted horn of a Black<NEWLINE>Diablos. Its blunt, lustrous<NEWLINE>form is truly majestic.
+A volcanic monster's scale.<NEWLINE>Highly resistant to fire,<NEWLINE>but doesn't sell for much.
+This scale is a blazing hue,<NEWLINE>but don't get too fired up;<NEWLINE>it's not worth that much.
+This scale is a blazing hue,<NEWLINE>but don't get too fired up;<NEWLINE>it's not worth that much.
+Turns a vivid red during<NEWLINE>crafting. Lightweight and<NEWLINE>incredibly heat resistant.
+Turns a vivid red during<NEWLINE>crafting. Lightweight and<NEWLINE>incredibly heat resistant.
+Curious hide that's both<NEWLINE>supple and highly resistant,<NEWLINE>but not necessarily strong.
+Curious hide that's both<NEWLINE>supple and highly resistant,<NEWLINE>but not necessarily strong.
+This claw is powerful, AND<NEWLINE>it just came out of scalding<NEWLINE>hot magma. Careful!
+This claw is powerful, AND<NEWLINE>it just came out of scalding<NEWLINE>hot magma. Careful!
+One of many fin-like pinnae<NEWLINE>found on Agnaktor.<NEWLINE>It works as a ship part.
+One of many fin-like pinnae<NEWLINE>found on Agnaktor.<NEWLINE>It works as a ship part.
+An Agnaktor's distinguishing<NEWLINE>beak, which allows it to<NEWLINE>tunnel beneath the earth.
+A tail carved from an<NEWLINE>Agnaktor. The going price is<NEWLINE>low due to lack of demand.
+The organ and shell from an<NEWLINE>Agnaktor's chest, used to fire<NEWLINE>its powerful heat rays.
+A chestplate made from ore<NEWLINE>fusing over a number of years.<NEWLINE>Won't melt, despite the heat.
+The hard carapace of a Glaci-<NEWLINE>al Agnaktor. Its upper layer<NEWLINE>is encrusted in thick ice.
+A flexible, cold-resistant<NEWLINE>hide. Impressively tough due <NEWLINE>to its frozen properties.
+A sharp claw that can pierce<NEWLINE>frozen ground. Its icy attacks<NEWLINE>cause frostbite.
+A quality fin from a Glacial<NEWLINE>Agnaktor. Shimmers faintly<NEWLINE>when hit by the dim polar sun.
+A Glacial Agnaktor's distin-<NEWLINE>guishing beak, which allows it<NEWLINE>to tunnel beneath the earth.
+A tail carved from a Glacial<NEWLINE>Agnaktor. The going price<NEWLINE>is low due to lack of demand.
+A Glacial Agnaktor's cold<NEWLINE>thorax. Caution required due<NEWLINE>to low temperature.
+A rock-hard shell collected<NEWLINE>from the Jhen Mohran during<NEWLINE>the customary hunt.
+A rock-hard shell collected<NEWLINE>from the Jhen Mohran during<NEWLINE>the customary hunt.
+A bright blue scale removed<NEWLINE>from the Jhen Mohran during<NEWLINE>the customary hunt.
+A bright blue scale removed<NEWLINE>from the Jhen Mohran during<NEWLINE>the customary hunt.
+Armor covering the Jhen<NEWLINE>Mohran's foreleg, removed<NEWLINE>during the customary hunt.
+Armor covering the Jhen<NEWLINE>Mohran's foreleg, removed<NEWLINE>during the customary hunt.
+Once, these dragon fangs<NEWLINE>shot up in value, inciting a<NEWLINE>"Fang Rush" among hunters.
+Once, these dragon fangs<NEWLINE>shot up in value, inciting a<NEWLINE>"Fang Rush" among hunters.
+One of the tougher materials<NEWLINE>to get from a Jhen Mohran,<NEWLINE>and that's saying something.
+A less valuable Deviljho<NEWLINE>material -- rare enough, but<NEWLINE>few stores want to carry it.
+Black hide that is oddly<NEWLINE>slimy and difficult to<NEWLINE>forge with.
+A fang of convenient size<NEWLINE>from a maw of alarming size.
+A dangerously sharp, hooked<NEWLINE>talon. Inexperienced crafters<NEWLINE>risk serious injury.
+Removing this part of a<NEWLINE>Deviljho's skull releases an<NEWLINE>unimaginably putrid odor.
+A massive tail resembling a<NEWLINE>fin. Some folks are out to<NEWLINE>collect these exclusively.
+Appetite symbol of fear!<NEWLINE>It's strongly acidic!
+A precious gem said to<NEWLINE>contain a Deviljho's might.<NEWLINE>Used in shady rituals.
+Escama de Akantor con un<NEWLINE>ligero brillo. Ni la lava<NEWLINE>podría fundirla.
+Concha de Akantor.<NEWLINE>Excepcionalmente fuerte <NEWLINE>y difícil de trabajar.
+The large rock-like tail <NEWLINE>of an Akantor. Strong<NEWLINE>enough to gouge the earth.
+Hard Akantor Claw that can<NEWLINE>smash bedrock. Its victims<NEWLINE>are left unrecognizable. 
+Huge fang that can strike<NEWLINE>to the heavens. It has<NEWLINE>passed through many foes.
+A flawless spike from<NEWLINE>Akantor armor, it can<NEWLINE>easily scar rock.
+A phantasmal stone. When<NEWLINE>crafted, said to unify the<NEWLINE>earth and seize the sky.
+The shell of an Ukanlos,<NEWLINE>made of a mineral that can<NEWLINE>capture the freezing cold.
+Thick waterproof scale<NEWLINE>that covers the Ukanlos's<NEWLINE>underside.
+Long, white tail of an<NEWLINE>Ukanlos. It shivers with<NEWLINE>hidden power.
+Ukanlos claw. Its twisted<NEWLINE>shape is due to repeated<NEWLINE>digging through tough ice.
+Ukanlos's shovel-like jaw.<NEWLINE>It uses it to plow through<NEWLINE>snow.
+Giant saw-like fin that<NEWLINE>runs along the Ukanlos's<NEWLINE>back. Cuts through all.
+A phantasmal stone. When<NEWLINE>crafted, said to unify the<NEWLINE>earth and seize the sky.
+A unique plate that repels<NEWLINE>all attacks, turning some<NEWLINE>back upon the assailant.
+This particular Alatreon<NEWLINE>scale grows in backwards.<NEWLINE>It is as sharp as a blade.
+A talon so sharp one cannot<NEWLINE>even predict the strength of<NEWLINE>weapons made from it.
+At times this looks like a<NEWLINE>dark abyss; at others, like<NEWLINE>the coming of first light.
+Most thought Alatreon only<NEWLINE>existed in legend, but you<NEWLINE>have another tail to tell.
+Part of an Alatreon's convo-<NEWLINE>luted horns. The pieces<NEWLINE>break easily when carved.
+Part of an Alatreon's<NEWLINE>convoluted horns.
+The fact that you are even<NEWLINE>holding this legendary jewel<NEWLINE>means you are FINISHED.
+Wrap armor from the god of<NEWLINE>heaven. It is hardened by<NEWLINE>being struck by storms.
+Material that said to be a<NEWLINE>robe of an angel. Which causes<NEWLINE>to float in the sky.
+A pair of horns that said<NEWLINE>to be a proof of<NEWLINE>being alive.
+Large claw that intimidates<NEWLINE>the presence of the<NEWLINE>storm dragon.
+Storm dragon's tail<NEWLINE>It possess a devastating<NEWLINE>strength.
+Storm dragon's Thorax.<NEWLINE>A piece of crust from the<NEWLINE>chest that emits a light.
+A huge organ that can store an<NEWLINE>enormous volume of water.<NEWLINE>Further improves an armor.
+A purified jewel,<NEWLINE>It is the basis of the storm<NEWLINE>dragon's power.
+A hunk of rock? No, it seems<NEWLINE>to be metal... With a little<NEWLINE>polish, it could be more.
+A fossil? No, it appears to<NEWLINE>be metal... With a little<NEWLINE>polish, it could be more.
+Appears to be some kind of<NEWLINE>fossilized gem. Maybe a<NEWLINE>treasure if polished.
+A fossil? No, it seems to be<NEWLINE>stone... With a little polish,<NEWLINE>it could be more.
+A fossil? No, it seems to be<NEWLINE>metal... With a little polish,<NEWLINE>it could be more.
+A fossil? No, it seems to be<NEWLINE>gem... With a little polish,<NEWLINE>it could be more.
+An egg of glittering steel.<NEWLINE>Quite valuable and rare,<NEWLINE>but of no use to a hunter.
+An egg of glittering silver.<NEWLINE>Very valuable and rare,<NEWLINE>but of no use to a hunter.
+An egg of glittering gold.<NEWLINE>Insanely valuable and rare,<NEWLINE>but of no use to a hunter.
+A ticket awarded for a<NEWLINE>display of bravery. Collect<NEWLINE>enough and it might pay off.
+A ticket awarded for a<NEWLINE>display of bravery. Collect<NEWLINE>enough and it might pay off.
+The paper currency of the <NEWLINE>Lynian race, stamped with <NEWLINE>a Felyne paw. Unreadable.
+Tickets from Chief of Yukumo<NEWLINE>Village. Passing the<NEWLINE>processing or ...?
+Tickets from Drinks seller.<NEWLINE>Passing the processing or ...?
+Tickets from Hot Spring<NEWLINE>Felyne. Passing the<NEWLINE>processing or ...?
+Ticket awarded for raising<NEWLINE>a hunter's Comrade.<NEWLINE>Try collecting them.
+A ticket awarded for hunting<NEWLINE>with a specific friend. Trade<NEWLINE>it with the Veggie Elder.
+A ticket awarded for hunting<NEWLINE>with a specific friend. Trade<NEWLINE>it with the Veggie Elder.
+A ticket awarded for hunting<NEWLINE>with friends. Trade it with<NEWLINE>the Veggie Elder.
+A ticket awarded for hunting<NEWLINE>with friends. The Veggie Elder<NEWLINE>may offer a rare trade...
+A ticket awarded for hunting<NEWLINE>with friends. The Veggie Elder<NEWLINE>may offer a premium trade...
+A secret document transmitted<NEWLINE>from a foreign land. Sword<NEWLINE>production is written down.
+A secret document transmitted<NEWLINE>from a foreign land. Bowgun<NEWLINE>production is written down.
+A secret document transmitted<NEWLINE>from a foreign land. L. Sword<NEWLINE>production is written down.
+Special invitation given to<NEWLINE>hunters for entering<NEWLINE>The Front of Armament gang.
+A cloth that looks terrifying.<NEWLINE>It's proof of the strongest<NEWLINE>creature above the ground.
+Testimony given to a person<NEWLINE>who's the strongest of a<NEWLINE>valley. Legends begin here!!
+A permissible tusk,<NEWLINE>only those with a strong heart<NEWLINE>can touch it.
+Book of the world's greatest<NEWLINE>swordsman. An illustration of<NEWLINE>the sword of legend is drawn.
+You're now a member of the<NEWLINE>Detective Boys!<NEWLINE>"There's only one truth!"
+A spell book to recall an<NEWLINE>incantation magic. The<NEWLINE>said magic is written down.
+Used to forge a weapon that<NEWLINE>only those who finish a<NEWLINE>special Quest may wield.
+Ticket on where a skull is<NEWLINE>drawn. It is required to<NEWLINE>create a weapon.
+Contains weapon recipes and<NEWLINE>notes gleaned from the toils<NEWLINE>of a hard-working smith.
+Identification for those who<NEWLINE>cleared the JUMP quest. A<NEWLINE>legendary robber cat is drawn.
+Identification for those who<NEWLINE>cleared the JUMP quest. A<NEWLINE>legendary pirate cat is drawn.
+Ticket especial.<NEWLINE>Este ticket demuestra tu<NEWLINE>valor y destreza.
+Silver ticket from Famitsu.<NEWLINE>Given to those who love<NEWLINE>to hunt.
+Golden ticket from Famitsu.<NEWLINE>Given to those who love<NEWLINE>to hunt.
+Platinum ticket from Famitsu.<NEWLINE>Given to those who love<NEWLINE>to hunt.
+Gold coin rewarded by Famitsu.<NEWLINE>A paw is stamped in<NEWLINE>the middle.
+"Went to an event. Dengeki<NEWLINE>Game Magazine sends its<NEWLINE>regards."         Polytan
+"How was the event? We<NEWLINE>should get together some<NEWLINE>time."            Polytan
+Title given only to a<NEWLINE>legendary hero who saves the<NEWLINE>world in crisis.
+Filled with top-secret<NEWLINE>materials.
+UNIQLO ticket that combines<NEWLINE>design and functionality.<NEWLINE>The logo is printed on it.
+Trade this in for a crystal<NEWLINE>that swirls with darkness --<NEWLINE>the only way to get one.
+White feathers separated from<NEWLINE>a beautiful crow. Sleeping<NEWLINE>soul of a proud hunter.
+Trade this in for a thick<NEWLINE>piece of wyvern leather --<NEWLINE>the only way to get one.
+Engraved with a traditional<NEWLINE>design. A family picture<NEWLINE>is painted on it.
+A cute illustrated<NEWLINE>diary about a Felyne's<NEWLINE>daily life.
+A permit to join a hunting<NEWLINE>club. Given only to those who<NEWLINE>love hunting.
+Referencia para tu lista<NEWLINE>sobre los Lynian. <NEWLINE>Hábitos, ecología, etc.
+Referencia para tu lista<NEWLINE>sobre los Neopteron.<NEWLINE>Hábitos, ecología, etc.
+Referencia para tu lista<NEWLINE>sobre los Piscine Wyvern.<NEWLINE>Hábitos, ecología, etc.
+Monster List reference on<NEWLINE>Herbivores.<NEWLINE>Habits, ecology, etc.
+Monster List reference on<NEWLINE>the Bird Wyvern family.<NEWLINE>Habits, ecology, etc. Tome I
+Monster List reference on<NEWLINE>the Bird Wyvern family.<NEWLINE>Habits, ecology, etc. Tome II
+Monster List reference on<NEWLINE>the Fanged Beast family.<NEWLINE>Habits, ecology, etc.
+Monster List reference on<NEWLINE>the Brute Wyvern family.<NEWLINE>Habits, ecology, etc. Tome I
+Monster List reference on<NEWLINE>the Brute Wyvern family.<NEWLINE>Habits, ecology, etc. Tome II
+Monster List reference on<NEWLINE>Duramboros.<NEWLINE>Habits, ecology, etc.
+Monster List reference on<NEWLINE>Deviljho.<NEWLINE>Habits, ecology, etc.
+Monster List reference on<NEWLINE>the Leviathan family.<NEWLINE>Habits, ecology, etc. Tome I
+Monster List reference on<NEWLINE>the Leviathan family.<NEWLINE>Habits, ecology, etc. Tome II
+Monster List reference on<NEWLINE>Nibelsnarf.<NEWLINE>Habits, ecology, etc.
+Monster List reference on<NEWLINE>the Flying Wyvern family.<NEWLINE>Habits, ecology, etc. Tome I
+Monster List reference on<NEWLINE>the Flying Wyvern family.<NEWLINE>Habits, ecology, etc. Tome II
+Monster List reference on<NEWLINE>Akantor.<NEWLINE>Habits, ecology, etc.
+Libro para tu lista de<NEWLINE>monstruos con material<NEWLINE>sobre el Ukanlos.
+Monster List reference on<NEWLINE>Zinogre.<NEWLINE>Habits, ecology, etc.
+Monster List reference on<NEWLINE>Jhen Mohran.<NEWLINE>Habits, ecology, etc.
+Monster List reference on<NEWLINE>Amatsu Magatsuchi.<NEWLINE>Habits, ecology, etc.
+Monster List reference on<NEWLINE>Alatreon.<NEWLINE>Habits, ecology, etc.
+Mapa que muestra la<NEWLINE>topografía de la región.<NEWLINE>~C05(Objeto suministro)
+Restaura un poco de Salud. <NEWLINE>El cuerpo se siente mejor.<NEWLINE>~C05(Objeto suministro)
+Ligero aumento de resistencia.<NEWLINE>La mayoría dicen que no buena.<NEWLINE>~C05(Objeto suministro)<NEWLINE>
+Una cocina para carne<NEWLINE>proporcionada a los nuevos<NEWLINE>cazadores ~C05(Objeto suministro)<NEWLINE>
+Una Piedra de Afilar que<NEWLINE>puede sacar filo al arma.<NEWLINE>~C05(Objeto suministro)
+Entrega para terminar la<NEWLINE>misión.<NEWLINE>~C05(Objeto suministro)
+Inmoviliza al monstruo para<NEWLINE>la fácil captura.<NEWLINE>~C05(Objeto suministro)
+Una pelota para lanzar que emi-<NEWLINE>te un fuerte destello de luz.<NEWLINE>~C05(Objeto suministro)
+Produce sonidos de alta<NEWLINE>frecuencia.<NEWLINE>~C05(Objeto suministro)
+Aumenta el máximo de tu vida y<NEWLINE>te cura por completo.<NEWLINE>~C05(Objeto suministro)
+Activa una trampa para atrapar<NEWLINE>monstruos.<NEWLINE>~C05(Objeto suministro)
+Versión mejorada de la bomba<NEWLINE>de barril grande. <NEWLINE>~C05(Objeto suministro)
+Pequeña bomba de relojería<NEWLINE>que se pega a un enemigo.<NEWLINE>~C05(Objeto suministro)
+Una bala para un cañón grande.<NEWLINE>~C05(Objeto suministro)
+Munición para una ballesta<NEWLINE>grande. ¡Evita que los gigante<NEWLINE>se muevan!~C05(Objeto suministro)
+Munición para una ballesta<NEWLINE>grande. ¡Evita que los gigante<NEWLINE>se muevan!~C05(Objeto suministro)
+A supreme taste for the queen<NEWLINE>bee. Good for your health,<NEWLINE>too!           ~C05（Account Item）
+Pequeña, difícil de coger.<NEWLINE>Se descubre por su única<NEWLINE>Fragancia. ~C05(Obj. cta.)
+Elegida entre las setas <NEWLINE>especiales por su tamaño <NEWLINE>y su sabor. ~C05(Obj. cta.)
+A unique Mushroom made more<NEWLINE>unique by maturing its aroma<NEWLINE>and flavor.    ~C05（Account Item）
+Grows only at the base of the<NEWLINE>Misty Peaks. A rare mushroom<NEWLINE>indeed.        ~C05（Account Item）
+A bamboo shoot from a mountain<NEWLINE>stream. Often used in cooking.<NEWLINE>               ~C05（Account Item）
+Frozen plant that shines with<NEWLINE>seven colors.<NEWLINE>               ~C05（Account Item）
+These roots from the Volcano<NEWLINE>have a distinctive spicy<NEWLINE>aroma.         ~C05（Account Item）
+Extraño pez con el cuerpo<NEWLINE>de color dorado. Muy<NEWLINE>valioso. ~C05(Obj. cta.)
+Extraño pez con el cuerpo<NEWLINE>de color plateado. Muy<NEWLINE>valioso. ~C05(Obj. cta.)
+Beautiful fish decorated with<NEWLINE>bright colors. Popular as an<NEWLINE>ornament.      ~C05（Account Item）
+Gorgeous fish speckled with<NEWLINE>dazzling colors. Popular among<NEWLINE>aristocracy.   ~C05（Account Item）
+Muy valorado por los<NEWLINE>coleccionistas por su<NEWLINE>brillo. ~C05(Obj. cta.)
+Con un brillo casi divino.<NEWLINE>Amado por coleccionistas. <NEWLINE>~C05(Obj. cta.)
+Cricket with silvery wings.<NEWLINE>Plays a cool sound.<NEWLINE>               ~C05（Account Item）
+A cricket with shiny golden<NEWLINE>wings. Makes a vibrant chirp-<NEWLINE>ing sound.     ~C05（Account Item）
+Trozo pequeño de <NEWLINE>oro puro. Tiene un<NEWLINE>precio alto. ~C05(Obj. cta.)
+Gran pedazo de <NEWLINE>oro precioso. Su brillo es<NEWLINE>muy atractivo. ~C05(Obj. cta.)
+A small slice of purple ore.<NEWLINE>Smells like flowers when<NEWLINE>rubbed.        ~C05（Account Item）
+A crystallized clump of pink<NEWLINE>ore. Rubbing it reveals a<NEWLINE>flowery scent. ~C05（Account Item）
+A unique bone prized in the<NEWLINE>village for reasons unknown.<NEWLINE>               ~C05（Account Item）
+A glittering, golden bone.<NEWLINE>Popular with collectors.<NEWLINE>               ~C05（Account Item）
+Is this crimson stone the<NEWLINE>relic of some ancient beast?<NEWLINE>               ~C05（Account Item）
+A stone of especially deep<NEWLINE>crimson. It almost looks ready<NEWLINE>to bleed.      ~C05（Account Item）
+A combustible rock that<NEWLINE>emits a faint warmth.<NEWLINE>               ~C05（Account Item）
+A combustible rock so hot,<NEWLINE>it may burst into flame at<NEWLINE>any moment.    ~C05（Account Item）
+Special ammunition for an<NEWLINE>anti-dragon cannon. Not fun<NEWLINE>to lug around.  ~C05（Supply Item）
+An egg taken from a flying<NEWLINE>wyvern's nest. Very fragile;<NEWLINE>care required. ~C05（Account Item）
+An egg stolen from an<NEWLINE>herbivore's nest. It looks<NEWLINE>pretty tasty.  ~C05（Account Item）
+An egg laid by a Gargwa.<NEWLINE>Though common in food, they<NEWLINE>are pricey.    ~C05（Account Item）
+Shiny gold egg from a Gargwa.<NEWLINE>There are many theories for<NEWLINE>why it's gold. ~C05（Account Item）
+A frozen mass of ash that<NEWLINE>contains gemstone crystals.<NEWLINE>               ~C05（Account Item）
+A rock that explodes with<NEWLINE>even the slightest jolt.<NEWLINE>Careful!       ~C05（Account Item）
+Dung that, when dried up, can<NEWLINE>be used as medicine.<NEWLINE>               ~C05（Account Item）
+A white liver, just as stated.<NEWLINE>Its texture is adored.<NEWLINE>               ~C05（Account Item）
+Oil can be extracted and used<NEWLINE>as a medicine or ointment.<NEWLINE>               ~C05（Account Item）
+La lengua de Popo es<NEWLINE>popular, saludable y muy<NEWLINE>sabrosa. ~C05(Obj. cta.) 
+Bolsa que lleva un<NEWLINE>Melynx. El interior es<NEWLINE>un caos. ~C05(Obj. cta.)
+A perfectly round acorn.<NEWLINE><NEWLINE>               ~C05（Account Item）
+Left by an Altaroth.<NEWLINE>This one looks delicious.<NEWLINE>               ~C05（Account Item）
+Shiny pouch from an Altaroth.<NEWLINE>Can be traded as a quality<NEWLINE>food.          ~C05（Account Item）
+Body fluids from a Giggi.<NEWLINE>It can decompose waste<NEWLINE>materials.     ~C05（Account Item）
+Monster innards galore.<NEWLINE>A prized delicacy.<NEWLINE>               ~C05（Account Item）
+Bitter tears wept by monsters<NEWLINE>on certain occasions.<NEWLINE>               ~C05（Account Item）
+Lágrimas de cocodrilo que<NEWLINE>se derraman en contadas<NEWLINE>ocasiones. ~C05(Obj. cta.)
+Bitter tears wept by fanged<NEWLINE>beasts on special occasions.<NEWLINE>               ~C05（Account Item）
+Large, bitter tears wept by<NEWLINE>fanged beasts on special<NEWLINE>occasions.     ~C05（Account Item）
+Material made from wood.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material made from wood.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material made from pumpkin.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material made from ore.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material made from ore.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material made from bone.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material made from bone.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material made from pelt.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material made from pelt.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Rhenoplos.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Rhenoplos.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Slagtoth.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Slagtoth.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material made from Neopterons.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material made from Neopterons.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material made from beetles.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material made from beetles.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Bulldrome.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Bulldrome.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Great Jaggi.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Great Jaggi.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Great Wroggi.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Great Wroggi.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Great Baggi.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Great Baggi.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Arzuros.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Arzuros.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Lagombi.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Lagombi.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Volvidon.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Volvidon.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Qurupeco.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Qurupeco.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Ludroth.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Ludroth.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Barroth.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Barroth.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Nibelsnarf.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Nibelsnarf.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Gigginox.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Gigginox.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Rathian.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Rathian.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Rathalos.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Rathalos.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Zinogre.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Zinogre.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Nargacuga.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Nargacuga.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Barioth.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Barioth.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Uragaan.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Uragaan.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Duramboros.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Duramboros.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Tigrex.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Tigrex.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Diablos.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Diablos.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Agnaktor.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Agnaktor.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Jhen Mohran.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Jhen Mohran.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Deviljho.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Akantor.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Ukanlos.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Alatreon.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material from Amatsu.<NEWLINE>As its shape is irregular, it<NEWLINE>only fits Comrade equipment.
+Material of Courage.<NEWLINE>Has an irregular shape,<NEWLINE>but something is missing...
+Material of Courage.<NEWLINE>Has an irregular shape,<NEWLINE>but something is missing...
+Mineral con una reacción<NEWLINE>única al calor. Se combina<NEWLINE>para revestir armaduras.
+Su reacción única al<NEWLINE>calor permite aumentar<NEWLINE>la fuerza de la armadura.
+Fuse this high-quality Armor<NEWLINE>Sphere to existing armor to<NEWLINE>increase its strength.
+A hard, dense Armor Sphere.<NEWLINE>Use this rare item for more<NEWLINE>advanced armor upgrades.
+A thick, dense Armor Sphere.<NEWLINE>Use this precious rarity to<NEWLINE>push armor to the limit.
+A modest good-luck charm.<NEWLINE>What does it do? Finish the<NEWLINE>Quest and you'll find out.
+A curious good-luck charm.<NEWLINE>What does it do? Finish the<NEWLINE>Quest and you'll find out.
+A powerful good-luck charm.<NEWLINE>What does it do? Finish the<NEWLINE>Quest and you'll find out.
+An indispensible item used<NEWLINE>in Decorations.
+An indispensible item used<NEWLINE>in Decorations.
+An indispensible item used<NEWLINE>in Decorations. A shame that<NEWLINE>these are so high-end.
+An indispensible item used<NEWLINE>in Decorations. This one<NEWLINE>doesn't come along often.
+Decoration that raises the<NEWLINE>Stun Skill.
+Decoration that raises the<NEWLINE>Stun Skill.
+Decoration that raises the<NEWLINE>Paralysis Skill.
+Decoration that raises the<NEWLINE>Paralysis Skill.
+Decoration that raises the<NEWLINE>Sleep Skill.
+Decoration that raises the<NEWLINE>Sleep Skill.
+Decoration that raises the<NEWLINE>Poison Skill.
+Decoration that raises the<NEWLINE>Poison Skill.
+Decoration that raises the<NEWLINE>Def Lock Skill.
+Decoration that raises the<NEWLINE>Anti-Theft Skill.
+Decoration that raises the<NEWLINE>Mud/Snow Skill.
+Decoration that raises the<NEWLINE>Mud/Snow Skill.
+Decoration that raises the<NEWLINE>Antiseptic Skill.
+Decoration that raises the<NEWLINE>Antiseptic Skill.
+Decoration that raises the<NEWLINE>Tremor Res Skill.
+Decoration that raises the<NEWLINE>Tremor Res Skill.
+Decoration that raises the<NEWLINE>Heat Res Skill.
+Decoration that raises the<NEWLINE>Cold Res Skill.
+Decoration that raises the<NEWLINE>Hearing Skill.
+Decoration that raises the<NEWLINE>Hearing Skill.
+Decoration that raises the<NEWLINE>Wind Res Skill.
+Decoration that raises the<NEWLINE>Wind Res Skill.
+Decoration that raises the<NEWLINE>Attack Skill.
+Decoration that raises the<NEWLINE>Attack Skill.
+Decoration that raises the<NEWLINE>Attack Skill.
+Decoration that raises the<NEWLINE>Expert Skill.
+Decoration that raises the<NEWLINE>Expert Skill.
+Decoration that raises the<NEWLINE>Expert Skill.
+Decoration that raises the<NEWLINE>Status Skill.
+Decoration that raises the<NEWLINE>Status Skill.
+Decoration that raises the<NEWLINE>ElementAtk Skill.
+Decoration that raises the<NEWLINE>ElementAtk Skill.
+Decoration that raises the<NEWLINE>Fire Atk Skill.
+Decoration that raises the<NEWLINE>Fire Atk Skill.
+Decoration that raises the<NEWLINE>Water Atk Skill.
+Decoration that raises the<NEWLINE>Water Atk Skill.
+Decoration that raises the<NEWLINE>ThunderAtk Skill.
+Decoration that raises the<NEWLINE>ThunderAtk Skill.
+Decoration that raises the<NEWLINE>Ice Atk Skill.
+Decoration that raises the<NEWLINE>Ice Atk Skill.
+Decoration that raises the<NEWLINE>Dragon Atk Skill.
+Decoration that raises the<NEWLINE>Dragon Atk Skill.
+Decoration that raises the<NEWLINE>Tenderizer Skill.
+Decoration that raises the<NEWLINE>Tenderizer Skill.
+Decoration that raises the<NEWLINE>Destroyer Skill.
+Decoration that raises the<NEWLINE>Destroyer Skill.
+Decoration that raises the<NEWLINE>Loading Skill.
+Decoration that raises the<NEWLINE>Loading Skill.
+Decoration that raises the<NEWLINE>FastCharge Skill.
+Decoration that raises the<NEWLINE>FastCharge Skill.
+Decoration that raises the<NEWLINE>Gloves Off Skill.
+Decoration that raises the<NEWLINE>Gloves Off Skill.
+Decoration that raises the<NEWLINE>KO Skill.
+Decoration that raises the<NEWLINE>KO Skill.
+Decoration that raises the<NEWLINE>Stam Drain Skill.
+Decoration that raises the<NEWLINE>Stam Drain Skill.
+Decoration that raises the<NEWLINE>Potential Skill.
+Decoration that raises the<NEWLINE>Potential Skill.
+Decoration that raises the<NEWLINE>Survivor Skill.
+Decoration that raises the<NEWLINE>Survivor Skill.
+Decoration that raises the<NEWLINE>Bomb Boost Skill.
+Decoration that raises the<NEWLINE>Maestro Skill.
+Decoration that raises the<NEWLINE>Artillery Skill.
+Decoration that raises the<NEWLINE>Defense Skill.
+Decoration that raises the<NEWLINE>Defense Skill.
+Decoration that raises the<NEWLINE>Blight Res Skill.
+Decoration that raises the<NEWLINE>Blight Res Skill.
+Decoration that raises the<NEWLINE>Fire Res Skill.
+Decoration that raises the<NEWLINE>Fire Res Skill.
+Decoration that raises the<NEWLINE>Water Res Skill.
+Decoration that raises the<NEWLINE>Water Res Skill.
+Decoration that raises the<NEWLINE>ThunderRes Skill.
+Decoration that raises the<NEWLINE>ThunderRes Skill.
+Decoration that raises the<NEWLINE>Ice Res Skill.
+Decoration that raises the<NEWLINE>Ice Res Skill.
+Decoration that raises the<NEWLINE>Dragon Res Skill.
+Decoration that raises the<NEWLINE>Dragon Res Skill.
+Decoration that raises the<NEWLINE>Protection Skill.
+Decoration that raises the<NEWLINE>Protection Skill.
+Decoration that raises the<NEWLINE>Health Skill.
+Decoration that raises the<NEWLINE>Rec Speed Skill.
+Decoration that raises the<NEWLINE>Rec Speed Skill.
+Decoration that raises the<NEWLINE>Rec Level Skill.
+Decoration that raises the<NEWLINE>Rec Level Skill.
+Decoration that raises the<NEWLINE>Evasion Skill.
+Decoration that raises the<NEWLINE>Evasion Skill.
+Decoration that raises the<NEWLINE>Evade Dist Skill.
+Decoration that raises the<NEWLINE>Evade Dist Skill.
+Decoration that raises the<NEWLINE>Sheathing Skill.
+Decoration that raises the<NEWLINE>Sheathing Skill.
+Decoration that raises the<NEWLINE>SpeedSetup Skill.
+Decoration that raises the<NEWLINE>Eating Skill.
+Decoration that raises the<NEWLINE>Eating Skill.
+Decoration that raises the<NEWLINE>Stamina Skill.
+Decoration that raises the<NEWLINE>Stamina Skill.
+Decoration that raises the<NEWLINE>Constitutn Skill.
+Decoration that raises the<NEWLINE>Constitutn Skill.
+Decoration that raises the<NEWLINE>Stam Recov Skill.
+Decoration that raises the<NEWLINE>Stam Recov Skill.
+Decoration that raises the<NEWLINE>Hunger Skill.
+Decoration that raises the<NEWLINE>Gluttony Skill.
+Decoration that raises the<NEWLINE>Fate Skill.
+Decoration that raises the<NEWLINE>Fate Skill.
+Decoration that raises the<NEWLINE>Tranquilzr Skill.
+Decoration that raises the<NEWLINE>Tranquilzr Skill.
+Decoration that raises the<NEWLINE>Carving Skill.
+Decoration that raises the<NEWLINE>Carving Skill.
+Decoration that raises the<NEWLINE>Transportr Skill.
+Decoration that raises the<NEWLINE>Gathering Skill.
+Decoration that raises the<NEWLINE>Spd Gather Skill.
+Decoration that raises the<NEWLINE>Whim Skill.
+Decoration that raises the<NEWLINE>Wide-Range Skill.
+Decoration that raises the<NEWLINE>Wide-Range Skill.
+Decoration that raises the<NEWLINE>Psychic Skill.
+Decoration that raises the<NEWLINE>Combo Rate Skill.
+Decoration that raises the<NEWLINE>Combo Plus Skill.
+Decoration that raises the<NEWLINE>LastingPwr Skill.
+Decoration that raises the<NEWLINE>Perception Skill.
+Decoration that raises the<NEWLINE>Dungmaster Skill.
+Decoration that raises the<NEWLINE>Ranger Skill.
+Decoration that raises the<NEWLINE>Sense Skill.
+Decoration that raises the<NEWLINE>Handicraft Skill.<NEWLINE>~C05（For Blademasters）
+Decoration that raises the<NEWLINE>Handicraft Skill.<NEWLINE>~C05（For Blademasters）
+Decoration that raises the<NEWLINE>Fencing Skill.<NEWLINE>~C05（For Blademasters）
+Decoration that raises the<NEWLINE>Fencing Skill.<NEWLINE>~C05（For Blademasters）
+Decoration that raises the<NEWLINE>Sharpness Skill.<NEWLINE>~C05（For Blademasters）
+Decoration that raises the<NEWLINE>Sharpness Skill.<NEWLINE>~C05（For Blademasters）
+Decoration that raises the<NEWLINE>Crit Draw Skill.<NEWLINE>~C05（For Blademasters）
+Decoration that raises the<NEWLINE>Crit Draw Skill.<NEWLINE>~C05（For Blademasters）
+Decoration that raises the<NEWLINE>PunishDraw Skill.<NEWLINE>~C05（For Blademasters）
+Decoration that raises the<NEWLINE>PunishDraw Skill.<NEWLINE>~C05（For Blademasters）
+Decoration that raises the<NEWLINE>Guard Skill.<NEWLINE>~C05（For Blademasters）
+Decoration that raises the<NEWLINE>Guard Skill.<NEWLINE>~C05（For Blademasters）
+Decoration that raises the<NEWLINE>Guard Up Skill.<NEWLINE>~C05（For Blademasters）
+Decoration that raises the<NEWLINE>Guard Up Skill.<NEWLINE>~C05（For Blademasters）
+Decoration that raises the<NEWLINE>Sharpener Skill.<NEWLINE>~C05（For Blademasters）
+Decoration that raises the<NEWLINE>Normal Up Skill.<NEWLINE>~C05（For Gunners）
+Decoration that raises the<NEWLINE>Normal Up Skill.<NEWLINE>~C05（For Gunners）
+Decoration that raises the<NEWLINE>Pierce Up Skill.<NEWLINE>~C05（For Gunners）
+Decoration that raises the<NEWLINE>Pierce Up Skill.<NEWLINE>~C05（For Gunners）
+Decoration that raises the<NEWLINE>Pellet Up Skill.<NEWLINE>~C05（For Gunners）
+Decoration that raises the<NEWLINE>Pellet Up Skill.<NEWLINE>~C05（For Gunners）
+Decoration that raises the<NEWLINE>Normal S+ Skill.<NEWLINE>~C05（For Gunners）
+Decoration that raises the<NEWLINE>Normal S+ Skill.<NEWLINE>~C05（For Gunners）
+Decoration that raises the<NEWLINE>Pierce S+ Skill.<NEWLINE>~C05（For Gunners）
+Decoration that raises the<NEWLINE>Pellet S+ Skill.<NEWLINE>~C05（For Gunners）
+Decoration that raises the<NEWLINE>Crag S+ Skill.<NEWLINE>~C05（For Gunners）
+Decoration that raises the<NEWLINE>Clust S+ Skill.<NEWLINE>~C05（For Gunners）
+Decoration that raises the<NEWLINE>Slice S+ Skill<NEWLINE>~C05（For Gunners）
+Decoration that raises the<NEWLINE>Rapid Fire Skill.<NEWLINE>~C05（For Gunners）
+Decoration that raises the<NEWLINE>Rapid Fire Skill.<NEWLINE>~C05（For Gunners）
+Decoration that raises the<NEWLINE>Reload Spd Skill.<NEWLINE>~C05（For Gunners）
+Decoration that raises the<NEWLINE>Reload Spd Skill<NEWLINE>~C05（For Gunners）
+Decoration that raises the<NEWLINE>Recoil Skill.<NEWLINE>~C05（For Gunners）
+Decoration that raises the<NEWLINE>Recoil Skill.<NEWLINE>~C05（For Gunners）
+Decoration that raises the<NEWLINE>Precision Skill.<NEWLINE>~C05（For Gunners）
+Decoration that raises the<NEWLINE>Para C+ Skill.<NEWLINE>~C05（For Gunners）
+Decoration that raises the<NEWLINE>Para C+ Skill.<NEWLINE>~C05（For Gunners）
+Decoration that raises the<NEWLINE>Sleep C+ Skill.<NEWLINE>~C05（For Gunners）
+Decoration that raises the<NEWLINE>Poison C+ Skill.<NEWLINE>~C05（For Gunners）
+Decoration that raises the<NEWLINE>Power C+ Skill.<NEWLINE>~C05（For Gunners）
+Decoration that raises the<NEWLINE>Power C+ Skill.<NEWLINE>~C05（For Gunners）
+Decoration that raises the<NEWLINE>C.Range C+ Skill.<NEWLINE>~C05（For Gunners）
+Decoration that raises the<NEWLINE>Exhaust C+ Skill.<NEWLINE>~C05（For Gunners）

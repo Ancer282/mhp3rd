@@ -1,0 +1,58 @@
+No Equipment
+Espada de hierro y madera<NEWLINE>viejos. Ha sido conservado<NEWLINE>por muchos años
+Modificado para los propósitos<NEWLINE>de caza. Tiene características<NEWLINE>únicas para la caza.
+Escudo diseñado para amortigu-<NEWLINE>ar impactos pesados. El veneno<NEWLINE>escurre por su hoja.
+Una espada con un mecanismo<NEWLINE>básico y fácil de manipular.<NEWLINE>Excelente para la caza.
+Falsificación de una pureza<NEWLINE>alta en hierro. El mejorado<NEWLINE>para más poder ofensivos.
+Hecho en bajas temperaturas.<NEWLINE>Los bordes pueden congelar aun<NEWLINE>el caparazón más duro.
+Espada del Dragón de hielo.<NEWLINE>El frió nunca se derretirán.
+Encarna el poder de un Dragón<NEWLINE>de Arena. Conjura tormenta de<NEWLINE>polvo debido a su filo.
+Echo con en el estilo tradici-<NEWLINE>onal. La función es general-<NEWLINE>mente muy buena.
+Modificado para los propósito<NEWLINE>de caza. Contiene veneno, así<NEWLINE>es que manipule con cuidado.
+Una espada brutal revestida en<NEWLINE>una toxina mortífera. Un fallo<NEWLINE>y seguramente morirás.
+La espada es muy ligera. Los<NEWLINE>materiales usados son recogi-<NEWLINE>dos de wyverns  pájaros.
+La espada muy conveniente he-<NEWLINE>cha de materiales de Jaggi.<NEWLINE>Con ataques feroces.
+Hecho de materiales de Baggi.<NEWLINE>Tiene el poder para acabar con<NEWLINE>todas presas heridas.
+Una espada adormecida, tentán-<NEWLINE>dole a dormir. Se rumorea que<NEWLINE>provee dulce sueños.
+Hecho de hueso barato. Es<NEWLINE>simple pero estable. También<NEWLINE>viene con un escudo.
+Un hacha pequeño hecha de <NEWLINE>materiales de muchos colores.<NEWLINE>Elaborado para la caza.
+Hacha de dos filos. Contiene<NEWLINE>un veneno fuerte y mortífero<NEWLINE>en las hojas.
+Su hoja afilada puede partir<NEWLINE>hueso grueso del tamaño de<NEWLINE>un troncos de árbol.
+Infundido con las llamas de un<NEWLINE>dragón de fuego, haciendo la<NEWLINE>hoja quemar un rojo brillante.
+Versión mejorada del Falchion<NEWLINE>ardiente. Posee un extremo<NEWLINE>calor comparable a la lava.
+Contiene escamas preciosas de<NEWLINE>un Dragón De Oro. Diseñado con<NEWLINE>una escritura sagrada.
+Cuero de Ludroth engulle la<NEWLINE>espada. Tiene el poder bestial<NEWLINE>de un Ludroth.
+Creada utilizando los materia-<NEWLINE>les de una bestia de agua. Se<NEWLINE>siente su fuerza en la hoja.
+El agua desborda desde la<NEWLINE>superficie de la hoja. Con<NEWLINE>cada golpe se humedece mas.
+紫水獣の海綿素材を纏った<NEWLINE>片手剣。驚異の貯水力を得た、<NEWLINE>あらゆる炎を無にする水剣。
+夜陰に紛れる黒い片手剣。<NEWLINE>独特の質感の刀身が返り血を<NEWLINE>隠すため、暗い噂が絶えない。
+轟竜の爪を模した片手剣。<NEWLINE>その一振りは、風を切る轟音<NEWLINE>と共に全てを粉々に粉砕する。
+黒き片手剣。その黒い爪に魅入<NEWLINE>られたものは、爪痕を残すこと<NEWLINE>も許されず、撃砕される。
+土砂竜の甲殻の特性を遺憾無く<NEWLINE>発揮した棍棒型の片手剣。<NEWLINE>骨をも砕く凶悪な一撃を放つ。
+限界を超え圧縮された密度の<NEWLINE>高い甲殻は安定した斬れ味と<NEWLINE>高い破壊力を約束する。
+角竜の怨念が宿ると言われる<NEWLINE>棍棒。常に角竜がそばにいる<NEWLINE>かのような気配を漂わせる。
+剣と呼ぶのもはばかられる鈍器<NEWLINE>の様な片手剣。重量を込めた<NEWLINE>一撃は片手剣の限界を超える。
+飛甲虫の素材から削り出された<NEWLINE>片手剣。羽模様の刀身は、<NEWLINE>華やかで鋭い。
+飛甲虫の素材から削り出された<NEWLINE>片手剣。その刀身は白く、<NEWLINE>ほのかに冷気を帯びる。
+飛甲虫の素材から削り出された<NEWLINE>片手剣。帯電により、羽模様は<NEWLINE>黄色い輝きを放つ。
+飛甲虫の素材から削り出された<NEWLINE>片手剣。その鮮緑の刃は、<NEWLINE>獲物を麻痺させ自由を奪う。
+東方の豪傑が鎧ごと敵を断ち<NEWLINE>切るために用いていたという<NEWLINE>剛刀。驚異的な斬れ味を持つ。
+武神と呼ばれた戦士が振るいし<NEWLINE>豪刀。只一人で数万の敵を打ち<NEWLINE>負かしたという伝説が残る。
+異国の狩猟者が用いる武器。<NEWLINE>この地方では見かけない形状と<NEWLINE>青い色彩の装飾が特徴的。
+異国よりもたらされた稀剣。<NEWLINE>盾と組み合わせれば別の武器と<NEWLINE>して扱う事も可能だとか…。
+鉱石の結晶部分を剣と盾に加工<NEWLINE>したもの。合わせると竜の頭部<NEWLINE>のように見えるのは偶然か…。
+古代の記憶の眠りし片手剣。<NEWLINE>永遠とも思える長き時を経て<NEWLINE>今、竜は鋭い牙をむく。
+片手剣としての機能は果たし<NEWLINE>ていない錆びた武器。<NEWLINE>結晶研磨加工していくと…。
+龍を封じるために太古の名工<NEWLINE>達が、１０８日間休まず打ち<NEWLINE>続けたと伝わる究極の封龍剣。
+片手剣としての機能を果たして<NEWLINE>いない風化した武器。<NEWLINE>復元加工できるようだが？
+圧倒的な妖気を発する剣。<NEWLINE>磨き抜かれた盾には所持者の<NEWLINE>未来の姿が写るのだとか…。
+メラルー愛用のシーフツール。<NEWLINE>スタンプを集めると獣人族か<NEWLINE>ら購入できる。肉球も完備。
+メラルー愛用のシーフツール。<NEWLINE>オトモアイルーとペアルックが<NEWLINE>できるので、マニアには人気。
+ねこ？ぱんち最終強化版。<NEWLINE>～にゃ♪にゃんにゃにゃ♪～<NEWLINE>　　　オカシラのお言葉より
+真の姿となったユクモノ鉈。<NEWLINE>すべてにおいて上質であること<NEWLINE>を目指して作られた武具。
+堅木を用いた剛強な片手剣。<NEWLINE>山の命をすべて刈り取ること<NEWLINE>さえできると思える武具。
+王の生命力がみなぎる片手剣。<NEWLINE>その連撃は千万の雷撃となり、<NEWLINE>獲物を打ち、焼き焦がす。
+天上神の御霊を宿す片手剣。<NEWLINE>荒玉より取り出した琢磨の剣は<NEWLINE>依り代となり、大威力を成す。
+この世を打ち崩す白き雪神の、<NEWLINE>第三の叫びの具現。神は次に、<NEWLINE>浮かぶ太陽を≪叩き≫落とす。
+煌黒龍の角から作られた黒き<NEWLINE>龍剣。手にとれば何者かの声が<NEWLINE>頭の中に響くのだとか…。
+妖しき煌剣。剣を手にした者は<NEWLINE>姿なき声に誘われ、囁く声の<NEWLINE>導くまま無明の闇へと消える。

@@ -1,0 +1,233 @@
+Nada Equipado
+Dogi Yukumo
+Chaleco Cuero
+Chaleco Malla
+Malla Cazador
+Chaleco Cazador
+Manto Loc Lac
+Malla Hueso
+Chaleco Hueso
+Malla Aleación
+Chaleco Aleación
+Traje Bnahabra
+Pullover Bnahabra
+Malla Rhenoplos
+Chaleco Rhenoplos
+Malla Jaggi
+Chaleco Jaggi
+Malla Arzuros
+Chaleco Arzuros
+Malla acero
+Malla Wroggi
+Chaleco Wroggi
+Malla Lambogi
+Chaleco Lambogi
+Malla Qurupeco
+Chaleco Qurupeco
+Malla Ludroth
+Chaleco Ludroth
+Malla Barroth
+Chaleco Barroth
+Malla Lingote
+Chaleco Lingote
+Malla Baggi
+Chaleco Baggi
+Malla Volvidon
+Chaleco Volvidon
+Malla Rathian
+Chaleco Rathian
+Malla Nibelsnarf
+Chaleco Nibelsnarf
+Malla Gigginox
+Chaleco Gigginox
+Malla Nacaguga
+Chaleco Nargacuga
+Malla Barioth
+Chaleco Barioth
+Malla Rathalos
+Chaleco Rathalos
+Malla Uragaan
+Chaleco Uragaan
+Malla Zinogre
+Chaleco Zinogre
+Malla Diablos
+Chaleco Diablos
+Malla Tigrex
+Chaleco Tigrex
+Malla Agnaktor
+Chaleco Agnaktor
+Malla Duramboros
+Chaleco Duramboros
+Traje guar. Gremio
+Chal. guar. Gremio
+Traje Escalar
+Chaleco Escalar
+Tronco Calabaza
+Tronco Calabaza
+Tronco Calabaza
+Tronco Calabaza
+Malla Pescado
+Chaleco Pescado
+Malla Escarabajo
+Chaleco Escarabajo
+Malla Mariposa
+Chaleco Mariposa
+Malla Atia
+Chaleco Atia
+Muneate Yamato
+Muneate Mutsu
+Muneate Hyuga
+Muneate Amagi
+Manta Slagtoth
+Capa Slagtoth
+Sugata Yuami
+Malla Bellota
+Dogi Yukumo・Cielo
+Dogi Yukumo・Tierra
+Malla Cuero S
+Chaleco Cuero S
+Cota Malla S
+Chaleco Malla S
+Malla Cazador S
+Chaleco Cazador S
+Manto Loc Lac S
+Manto Loc Lac S
+Malla Hueso S
+Chaleco Hueso S
+Malla Aleación S
+Chaleco Aleación S
+Traje Bnahabra S
+Traje Bnahabra S
+Malla Rhenoplos S
+Chaleco Rhenoplos S
+Malla Jaggi S
+Chaleco Jaggi S
+Malla Arzuros S
+Chaleco Arzuros S
+Malla Acero S
+Malla Wroggi S
+Chaleco Wroggi S
+Malla Lambogi S
+Chaleco Lambogi S
+Malla Qurupeco S
+Chaleco Qurupeco S
+Malla Ludroth S
+Chaleco Ludroth S
+Malla Barroth S
+Chaleco Barroth S
+Malla Lingote S
+Chaleco Lingote S
+Malla Baggi S
+Chaleco Baggi S
+Malla Volvidon S
+Chaleco Volvidon S
+Malla Rathian S
+Chaleco Rathian S
+Malla Nibelsnarf S
+Chaleco Nibelsnarf S
+Malla Gigginox S
+Chaleco Gigginox S
+Malla Nargacuga S
+Chaleco Nargacuga S
+Malla Barioth S
+Chaleco Barioth S
+Malla Rathalos S
+Chaleco Rathalos S
+Malla Uragaan S
+Chaleco Uragaan S
+Malla Dober
+Chaleco Dober
+Malla Zinogre S
+Chaleco Zinogre S
+Malla Diablos S
+Chaleco Diablos S
+Malla Tigrex S
+Chaleco Tigrex S
+Malla Agnaktor S
+Chaleco Agnaktor S
+Malla Duramboros S
+Chaleco Duramboros S
+Malla Qurupeco U
+Chaleco Qurupeco U
+Malla Ludroth U
+Chaleco Ludroth U
+Malla Barroth U
+Chaleco Barroth U
+Malla Gigginox U
+Chaleco Gigginox U
+Malla Nargacuga U
+Chaleco Nargacuga U
+Malla Barioth U
+Chaleco Barioth U
+Malla Uragaan U
+Chaleco Uragaan U
+Malla Diablos U
+Chaleco Diablos U
+Malla Tigrex U
+Chaleco Tigrex U
+Malla Agnaktor U
+Chaleco Agnaktor U
+Malla Luna Dorada
+Chaleco Luna Dor.
+Malla Sol Plateada
+Chaleco Sol Platea.
+Malla Vangis
+Chaleco Vangis
+Cinto Soldado
+Cinto Soldado
+Traje cab. Gremio S
+Chal. cab. Gremio S
+Traje Escalar S
+Chaleco Escalar S
+Tronco Calabaza S
+Tronco Calabaza S
+Tronco Calabaza S
+Tronco Calabaza S
+Malla Pescado S
+Chaleco Pescado S
+Malla Escarabajo S
+Chaleco Escarabajo S
+Malla Mariposa S
+Chaleco Mariposa S
+Malla Atia S
+Chaleco Atia S
+Bata flor. Dianthus
+Bata flor. Kikyo
+Coraza Damasco
+Chaleco Damasco
+Muneate Yamato・Supr
+Muneate Mutsu ・Supr
+Muneate Hyuga・Supr.
+Muneate Amagi・Supr.
+Égida Akantor Oscur
+Placa Akantor Oscur
+Égida Ukanlos
+Placa Ukanlos
+Alma Escadora
+Zere Escadora
+Ropa Tormenta
+Ropa Cielo Azul
+Manta Slagtoth S
+Capa Slagtoth S
+Sugata de lujo Yuami
+Malla Bellota S
+Chaleco Bellota S
+Amuleto Trinidad
+Chaqueta Armamento
+Corredor Armamento
+Chaqueta Cazador
+Corredor Cazador
+Traje Jolly Roger
+Chaq. Jolly Roger
+Traje de Snake
+Cuerpo de Snake
+Traje The Boss
+Cuerpo The Boss
+Chaqueta UNIQLO
+Chaqueta UNIQLO
+Chaqueta Inf.cazador
+Jumper Inf.cazador
+Chaqu. Alma Cazador
+Jumper Alma Cazador
+Chaqu. MonsterHunter
+Jersey MonsterHunter

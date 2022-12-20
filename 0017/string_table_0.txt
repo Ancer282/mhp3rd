@@ -1,0 +1,1995 @@
+<EMPTY STRING>
+－－－－－－－－
+－－－－－－
+－－－－－
+Cant.
+「%s」
+０
+１
+２
+３
+４
+５
+６
+７
+８
+９
+★
+／
+Aceptar
+Ｇ
+Cancelar
+Si
+No
+~B12~C34Si~C00~B13　　No　
+　Si　　~B12~C34No~C00~B13
+~B12~C34Intercambiar~C00~B13　　Quitar equipo　
+　Intercambiar　　~B12~C34Quitar equipo~C00~B13
+%d
+%1d
+%2d
+%3d
+%4d
+%5d
+%6d
+%7d
+%4dz
+%5dz
+%7dz
+%4dpts
+%5dpts
+%7dpts
+-------z
+-------pts
+~B00 OK
+~B01Atras
+Ant.~B03
+~B03~B01Atras
+~B02Cambiar
+~B03Ver Habilidad
+~B03Equipam. avanz.
+~B00Selecc.
+~B00Deselecc.
+~B06　Aceptar
+~B07　Ordenar
+~B06　Camara
+~B08Rotar
+~B09Camara
+~B06　Menú
+~B00Paleta colores
+~B00Sel. color
+~B03Cambiar equipo
+~B03~B00Aceptar
+~B06　Cambiar nombre
+~B06　Registrar equipo
+~B01Cancelar
+~B07　Mostrar nombre decorativo
+~B07　Mostrar nombre habilidad
+~B07　Cambiar listado
+~B03Ampliar mapa
+~B03Contr. mapa
+~B02Enviar señal
+~B03Mover
+~B02Combinaciones posibles
+~B02Lista ordenada
+~B07　Reestablecer
+~B02Seleccionar cantidad
+~B06　Empezar ejercicios
+~B01Regresar a sel. de equipo
+~B06　Atras
+~B03Cambiar Felyne
+~B02Detalles
+~B06　Cambiar Nombre
+~B03Detalles de remplazo de adornos
+~B07　Ordenar
+~B02Vender
+~B03Comparar
+~B03Detalles equipo
+~B03Ocultar Arma
+~B03Mostrar Arma
+~B01Deseleccionar
+~B03Habilidades
+x%2d
+ ∞
+Seleccionar un objeto para<NEWLINE>intercambiar.
+Se ha intercambiado el objeto.
+Terminar.<NEWLINE>¿Está seguro?
+Colocar en la bolsa. Cuando<NEWLINE>esté llena, puedes<NEWLINE>intercambiarlos.
+Enviar al Baúl. si esta<NEWLINE>lleno, no podrás enviar<NEWLINE>el objeto.
+Vender objetos restantes y salir.
+Selecciona el objeto a recibir<NEWLINE>y ponlo en la bolsa.
+Selecciona el objeto y envialo<NEWLINE>al Baúl.
+~C02El Baúl esta lleno.
+Selecciona el objeto a recibir<NEWLINE>y ponlo en la bolsa. ~C02No puedes<NEWLINE>llevar más objetos de este tipo.
+Selecciona el objeto y envialo<NEWLINE>al Baúl.<NEWLINE>~C02El Baúl esta lleno.
+Vender los objetos restantes?
+Vender los objetos restantes?
+Vender los objetos restantes?
+Para artículos no identificados<NEWLINE>Lo enviaré a la caja de tasación.
+Los artículos que quedan en la bolsa temporal<NEWLINE>Colóquelo en la bolsa del artículo.
+Los artículos que quedan en la bolsa temporal<NEWLINE>Colóquelo en la bolsa del artículo.<NEWLINE>~ C02 Ya no puedo tener este artículo
+Los artículos que quedan en la bolsa temporal<NEWLINE>Envíelo a la caja del artículo.
+Los artículos que quedan en la bolsa temporal<NEWLINE>Envíelo a la caja del artículo.<NEWLINE>~ C02 La caja del artículo está llena
+Regresando al pueblo en 20 segs.
+Regresando al pueblo en 1 min.
+Misión cumplida!
+Recomp. reducida por %dz.
+Quedan %d minutos.
+Estas inconsciente.
+Mision no cumplida...
+Limite de tiempo: %d min.
+Se acabo el tiempo.
+Objetos de suministro entregados.
+Entregas posibles durante 20 s.
+Objetivo conseguido.
+¡Victoria!
+¡Queda 1 Monstruo!
+¡Quedan 2 Monstruos!
+¡Quedan 5 Monstruos!
+¡Quedan 10 Monstruos!
+¡Quedan 20 Monstruos!
+¡Queda 1 Monstruo!
+¡Quedan 2 Monstruos!
+¡Quedan 5 Monstruos!
+¡Quedan 10 Monstruos!
+¡Quedan 20 Monstruos!
+Entrando a la batalla final
+El Matadragones está listo para usar
+El Gong de Caza está listo para usar
+La Ciñebalista está lista para usar
+¡El barco fue destruido!
+El monstruo ha huido.
+El barco está al 50% de durabilidad
+El barco está al 30% de durabilidad
+El barco está al 10% de durabilidad
+z
+Valor
+Posee
+――――――――
+RARO-%d
+Ranuras neces.
+Restante
+Entrega de objetos
+Compensación total
+Tasa Puntos Yukumo
+Dinero actual
+Puntos Yukumo act.
+Tirar
+Dar
+Entregar
+Interc.
+Interc.
+Tirar
+dummy
+Salir
+Lista comb.
+Lista monstruos
+Inform. Felyne
+100%
+95%
+90%
+85%
+75%
+65%
+55%
+－－－－
+Nombre
+Alias
+Tipo
+Riesgo
+Cazados(capt.)
+Record Max.
+Record Min.
+★
+%4d(%4d)
+%4d~C10(----)
+%4d.%02dcm
+----cm
+－－－－
+Lynian
+Neopteron
+Piscine
+Herbívoro
+Wyvern Pájaro
+Primatius
+Wyvern
+Wyv. con Colm.
+Wyvern Bruto
+Leviathan
+Dragón Anciano
+－－－－
+Perro Dragón
+Perro Drgn. Adorm.
+Perro Dragón Ven.
+Oso Azul
+Conejo Blanco
+Bestia de Caparazon Rojo
+Gran Jabalí
+Wyv. de Fuego Femenina
+Wyv. de Fuego Dorada
+Wyvern de Fuego
+Wyv. de Fuego Plateado
+Ave Colorida
+Ave Colorida Carmesí
+Wyv. Venenoso Raro
+Wyv. Poderoso Raro
+Colmillo Helado
+Colmillo Ventisca
+Wyvern con Cuernos
+Wyv. Negro con Cuernos
+Wyvern Terrorífico
+Deslizador
+Rompehielos
+Martillo
+Martillo de Acero
+Bestia Acuática
+Bestia Acuática Púrpura
+Lanza de Fuego
+Lanza Helada
+Montaña Errante
+Dragón Negro Ardiente
+Aullador
+Aullador Negro
+Bestia Rápida
+Bestia Rápida Verde
+Bestia Suprema
+Avalancha
+Lobo Eléctrico
+Dragón de Tormenta
+Boca Latente
+Cola Martillo
+Animal Acuático
+Bestia Lava
+Dragón Herbívoro
+Bicho
+Bicho Volador
+Aves Rondadoras
+Dragón de Piel Rayada
+Criaturas bípedas que parecen ga-<NEWLINE>tos. Son dóciles, pero atacan fie-<NEWLINE>ramente si se les provoca. Son de<NEWLINE>naturaleza curiosa, algunos incluso<NEWLINE>viven en ciudades y conviven juntos<NEWLINE>con los Wyverianos y otras razas.
+Criaturas bípedas que parecen ga-<NEWLINE>tos. Son mas oscuros que los<NEWLINE>Felynes, Son de naturaleza curiosa,<NEWLINE>Se les dificulta vivir en ciudades<NEWLINE>debido a sus actos cleptómanos.
+Insectos que habitan muchas áreas.<NEWLINE>Pone frutas, hongos, miel, etc. en<NEWLINE>su cuerpos y lo lleva a su nido. Su<NEWLINE>abdomen se hincha y toma un color<NEWLINE>dependiendo de lo que comen y se<NEWLINE>puede recolectar los materiales una<NEWLINE>vez cambie de color.
+Insecto volador que habita la mayo-<NEWLINE>ría de ambientes. Atacan a los in-<NEWLINE>vasores con un veneno paralizante y<NEWLINE>pone huevos en los cadáver. Como<NEWLINE>sus cuerpos son frágiles, use vene-<NEWLINE>no para cosechar sus partes.
+Monstruo carnívoro que habitan en<NEWLINE>los desiertos. Siempre están en<NEWLINE>grupo de 4 a 6. Cuando un monstruo<NEWLINE>grande esta cazando, nadan alrede-<NEWLINE>dor de la presa buscando comida.<NEWLINE>Son conocidos por ser débiles a las<NEWLINE>bombas de sonidos.
+Monstruos herbívoros, parecidos a<NEWLINE>ciervos. Valorados por sus cuernos,<NEWLINE>que se utilizan para medicamentos.<NEWLINE>Tienden a huir ante el peligro.<NEWLINE>También son cazados por su carne,<NEWLINE>que es suave y sabrosa.
+Herbívoros relativamente dócil con<NEWLINE>placas en la cresta. Ellos formar<NEWLINE>rebaños y criar en comunidades pe-<NEWLINE>queñas, y se han utilizado como<NEWLINE>animal de carga por generaciones;<NEWLINE>su carne es sabrosa y nutritiva.
+Herbívoros extremadamente territo-<NEWLINE>riales con mala visión pero aguda<NEWLINE>audición. Rhenoplos obstinadamente<NEWLINE>perseguir cualquier objetivo cerca-<NEWLINE>no que se acerque.
+Herbívoros que viven cerca del<NEWLINE>agua en el Volcán y el Bosque<NEWLINE>Inundado. Su piel pesada<NEWLINE>almacena nutrientes, y son<NEWLINE>apreciados por su resistencia al<NEWLINE>calor y al agua. Los machos son<NEWLINE>bastante territoriales.
+Un monstruo herbívoro que vive<NEWLINE>en regiones frías. Por lo general<NEWLINE>tranquilo al acercarse, balancean<NEWLINE>sus cuernos enormes para atacar.<NEWLINE>La piel de buena calidad es muy<NEWLINE>útil y los cuernos son también<NEWLINE>apreciados en el gremio.
+Un herbívoro que vive en manada.<NEWLINE>Resistente al frió, todo el cuerpo<NEWLINE>está cubierto de pelo largo.<NEWLINE>Tiene una personalidad apacible,<NEWLINE>pero cuando se trata de proteger a<NEWLINE>las crías ataca con valentía con<NEWLINE>sus enormes colmillos.
+Wyverno no voladores con<NEWLINE>alas vestigiales. A menudo pueden<NEWLINE>ser encontrado vagando de forma<NEWLINE>salvaje, pero también se encuentran<NEWLINE>como ganado en la Villa Yukumo.<NEWLINE>Bastante tímidos, se sabe que<NEWLINE>pone huevos cuando se asusta.
+Especie de wyverno carnívoro que<NEWLINE>vive en grandes grupos. Los jóvenes<NEWLINE>cazan a presas varias veces su<NEWLINE>tamaño. Se ha visto que siguen las<NEWLINE>indicaciones del alpha de la mana-<NEWLINE>da. En los últimos reportes esta<NEWLINE>que aveces cazan huevos de dragón.
+Wyvero femenina Jaggi que quia al<NEWLINE>grupo. Como regla general, se<NEWLINE>mantiene cerca del nido. En<NEWLINE>comparación con los machos se<NEWLINE>considera que su cuerpo es más<NEWLINE>grande, su cuerpo también es mas<NEWLINE>fuerte que el de los machos.
+Alpha de la manada de Jaggi. Por lo<NEWLINE>general los machos crecen hasta<NEWLINE>cierto punto dejando la manada<NEWLINE>para vivir solos. Despues de eso<NEWLINE>regresa a la manada y compite para<NEWLINE>ganar el poder en el grupo.
+Alta mente inteligente, un wyverno<NEWLINE>que caza en grupos.<NEWLINE>Caracterizado por sus ojos y esca-<NEWLINE>mas azules. Sus fluidos corporales<NEWLINE>son capaces de dejar dormido a sus<NEWLINE>presas.
+Es un wyverno carnívoro similar al<NEWLINE>Baggi. Resaltando por su cresta<NEWLINE>saliente y su piel blanco azulado<NEWLINE>adaptado para la nieve. El gran<NEWLINE>Baggi astutamente da ordenes a<NEWLINE>otros Baggi para rodear su presa y<NEWLINE>aturdirlos con sus fluidos.<NEWLINE>
+Wyvernos carnívoros con órganos<NEWLINE>que general veneno. Andan en<NEWLINE>manada, a menudo guiados por un<NEWLINE>alfa. Los mas débiles con gusto<NEWLINE>darían sus vidas por el alfa.<NEWLINE>
+Wyverno que escupe una niebla<NEWLINE>venenosa. La manada de Wroggi la<NEWLINE>quia es el mas venenoso. El vene-<NEWLINE>no se hace en un órgano que esta<NEWLINE>en su garganta, si es destruida,<NEWLINE>se debilitara esa habilidad.
+Wyverno con plumaje único.<NEWLINE>Bien sabido que usa el órgano de<NEWLINE>voz en su pico para imitar a otros<NEWLINE>monstruos, primero los llama, luego<NEWLINE>los usa como distracción para<NEWLINE>escapar. Escupe un fluido<NEWLINE>combustible peligroso.<NEWLINE>
+Subespecie de Qurupeco<NEWLINE>con plumas carmesí y la misma<NEWLINE>aptitud. los pedernales en sus<NEWLINE>alas le permiten generar<NEWLINE>electricidad, que descargara<NEWLINE>en un destellos de luz<NEWLINE>
+Un gran jabalí. De mal genio carga<NEWLINE>contra los cazadores cuando los<NEWLINE>ve, ¡asi que ten cuidado! a<NEWLINE>menudo son cazados por su<NEWLINE>carne, le gusta a los cazadores<NEWLINE>
+Líder de los Bullfango<NEWLINE>conocidos por sus colmillos<NEWLINE>enormes. Más agresivos que<NEWLINE>un Bullfango, se sabe se lanza<NEWLINE>a pelear, y es sumamente hábil <NEWLINE>localizando a los enemigo.<NEWLINE>
+La bestia que habita en los<NEWLINE>bosques y las montañas se<NEWLINE>encuentra en regiones húmeda,<NEWLINE>aunque son mas conocidos por<NEWLINE>pescar y recolectar miel, sus<NEWLINE>patas son gruesas y puede dar<NEWLINE>poderosos golpes a sus enemigos<NEWLINE>
+Bestia con colmillos cuya cálida<NEWLINE>y gruesa piel le ayuda a sobrevivir<NEWLINE>en el clima frió. Aunque no come<NEWLINE>carne se le ha visto deslizarse<NEWLINE>en la nieve para atacar.<NEWLINE>
+Bestia con caparazón grueso y<NEWLINE>resistente a la lava. Su cuerpo<NEWLINE>redondeados son perfecto para rodar<NEWLINE>por superficies calientes y su<NEWLINE>lengua es larga para capturar a<NEWLINE>los insectos. Su saliva tiene<NEWLINE>toxinas paralizantes<NEWLINE>
+Barroth usualmente se queda bajo<NEWLINE>el barro, quizá para protegerse<NEWLINE>del calor; Son inteligentes para<NEWLINE>atacar con el barro. Atacaran<NEWLINE>ferozmente a los que perturben<NEWLINE>su territorio.
+Una subespecie de Barroth que<NEWLINE>se encuentra en climas frios, A<NEWLINE>falta de barro, se cubre de nieve<NEWLINE>y hielo, los que arroja para atacar<NEWLINE>Son conocidos por su frente con<NEWLINE>recubrimiento de hielo y que se<NEWLINE>alimenta principalmente de Bnahabra<NEWLINE>
+Usa su poderosa mandíbula para<NEWLINE>triturar los minerales de los que<NEWLINE>alimenta. Son tan inteligente que<NEWLINE>se colocan rocas y minerales con<NEWLINE>lava, luego los esparcen y usan<NEWLINE>vibraciones para hacerlos<NEWLINE>explotar.<NEWLINE>
+Una subespecie de Uragaan recubier-<NEWLINE>to de metal,  tienen una dieta inu-<NEWLINE>sual que les permite crear gas<NEWLINE>nocivo y poderoso. El gas impregna<NEWLINE>las rocas de su cuerpo, que emiten<NEWLINE>humo fétido. Como el Urangaan puede<NEWLINE>rodar para huir.<NEWLINE>
+Wyverno gigante con un martillo<NEWLINE>en su cola. Su dieta consiste en<NEWLINE>arboles caídos o marchitos, usan<NEWLINE>su cola para golpear estos arboles,<NEWLINE>los investigadores creen que la<NEWLINE>cola funciona como fuente<NEWLINE>de energía.<NEWLINE>
+El temible Deviljho, estos no tiene<NEWLINE>territorio propio. Sus abultados<NEWLINE>músculos revelan viejas heridas.<NEWLINE>Debe alimentarse constantemente<NEWLINE>ya que su cuerpo consume mucha<NEWLINE>energía.
+Monstruos acuáticos femeninos.<NEWLINE>Ludroth hacen un "harem" alrededor<NEWLINE>de un macha alfa, se reúnen en<NEWLINE>territorios designados como<NEWLINE>criaderos. Son muy agresivos<NEWLINE>con los invasores. Se recomienda<NEWLINE>precaución.
+El Ludroth real usa su esponja<NEWLINE>de su cuello para absorber el<NEWLINE>agua y no secarse cuando esta<NEWLINE>en la tierra. Cuando este se<NEWLINE>seca intenta volver al agua.<NEWLINE>Es capaz de lanzar agua a<NEWLINE>sus presas.<NEWLINE>
+Una subespecie de Ludroth real<NEWLINE>con una esponja morada que sirve<NEWLINE>para almacenar poderosas toxinas.<NEWLINE>Humedecer esta esponja parece<NEWLINE>revitalizarlo, así que prefiere<NEWLINE>estar en zonas húmedas.<NEWLINE>
+Especie de leviatán que vive<NEWLINE>en las llanura de arena. Conocido<NEWLINE>por cazar en la arena, imita las<NEWLINE>dunas para atrapar a sus presas.<NEWLINE>Puede crear túneles de viento<NEWLINE>con su boca.<NEWLINE>
+Un leviatán que habita los<NEWLINE>volcanes. Conocido por nadar<NEWLINE>alrededor de monstruos mas<NEWLINE>grandes muertos para alimentarse.<NEWLINE>Uroktor rara vez caza por si<NEWLINE>mismo, pero cuando lo hace<NEWLINE>ataca a sus víctima desde abajo.<NEWLINE>
+También conocidos como<NEWLINE>"pica de fuego", Agnaktor usa su<NEWLINE>pico de gran poder para excavar<NEWLINE>entre las rocas. Su armadura de<NEWLINE>lava endurecida se suaviza si<NEWLINE>es atacado con fuego o<NEWLINE>explosiones.<NEWLINE>
+Una subespecie de Agnaktor que <NEWLINE>vive en las tundras. Puede escupir<NEWLINE>un chorro de agua. Hace su madri-<NEWLINE>guera en el permafrost y tiene<NEWLINE>armadura de hielo. Su armadura se<NEWLINE>derrite si se le aplica calor.
+Wyverno femenino que lanza<NEWLINE>fuego, también conocido como la<NEWLINE>"reina de la tierra". En su cola<NEWLINE>esconde una pua con veneno,<NEWLINE>cazan principalmente en tierra.<NEWLINE>Algunas veces se a visto cazando<NEWLINE>que su pareja el Rathalos.<NEWLINE>
+Una variante rara del Rathian<NEWLINE>con un bello cuerpo de oro. Poco<NEWLINE>se conoce acerca de su<NEWLINE>comportamiento o de que causa<NEWLINE>su bello brillo dorado.<NEWLINE>
+Wyverno conocido como el<NEWLINE>"Rey de los Cielos". Pareja del<NEWLINE>Rathian, protegen su territorio<NEWLINE>alrededor de su nido. El Rathalos<NEWLINE>ataca desde el cielo con su<NEWLINE>aliento de fuego y garras<NEWLINE>venenosas.<NEWLINE>
+Una variante rara del Rathalos<NEWLINE>con un bello cuerpo de plata. Poco<NEWLINE>se conoce acerca de su<NEWLINE>comportamiento o de que causa<NEWLINE>su bello brillo plateado.<NEWLINE>
+Las larvas de un Gigginox.<NEWLINE>Puede sobrevivir en ambientes<NEWLINE>oscuros. Los Giggi son sensibles<NEWLINE>a la luz y al calor, así que evitan<NEWLINE>las antorchas. Son conocidos<NEWLINE>por ser sanguijuelas que<NEWLINE>convierte la sangre en veneno.<NEWLINE>
+Wyverno que habita la Tundra.<NEWLINE>Gigginox vive en la oscuridad por<NEWLINE>lo que no tiene buena vista;<NEWLINE>Detectan  a sus presas por el<NEWLINE>calor de sus cuerpos.Cuando<NEWLINE>se enoja cambia de color su<NEWLINE>piel  y se endurece.
+Una subespecie de Gigginox que usa<NEWLINE>electricidad para aturdir a sus<NEWLINE>víctimas. Se cree que es una muta-<NEWLINE>ción aleatoria, sus avistamientos<NEWLINE>son muy raros. Es posible debilitar<NEWLINE>su electricidad si se rompe sus<NEWLINE>órganos capacitores.
+Wyverno que gobierna la Tundra.<NEWLINE>Barioth usa sus enormes<NEWLINE>colmillos y escamas<NEWLINE>puntiagudas para moverse<NEWLINE>libremente sobre el hielo<NEWLINE>resbaladizo, esta habilidad<NEWLINE>lo hace difícil de seguir.<NEWLINE>
+Una subespecie de Barioth<NEWLINE>que vive en las llanuras. Su<NEWLINE>respiración es tan fuerte que<NEWLINE>genera tornados, que utiliza para<NEWLINE>viajar a altas velocidades. Sus<NEWLINE>escamas están teñidas de rojo y<NEWLINE>sus dientes de un azul profundo.
+Wyverno que a evolucionado<NEWLINE>para vivir en áreas boscosa. Esta<NEWLINE>criatura acecha a sus víctimas<NEWLINE>desde las sombras y tiene una<NEWLINE>velocidad feroz. Con sus colas<NEWLINE>pueden ser mortales<NEWLINE>
+Una subespecie del Nargacuga<NEWLINE>con pelaje verde que le ayuda a<NEWLINE>mezclarse con el área con alta<NEWLINE>densidad como bosques. Su<NEWLINE>cola es extremadamente<NEWLINE>peligrosa.<NEWLINE>
+Wyverno con dos cuernos que<NEWLINE>se encuentra en el desierto. Son<NEWLINE>capaces de meterse bajo tierra<NEWLINE>para atacar desde abajo. Son<NEWLINE>muy violentos y se enojaran<NEWLINE>con facilidad.<NEWLINE>
+La Diablos negra es tratado como<NEWLINE>una subespecie, pero en realidad<NEWLINE>es simplemente la hembra. El<NEWLINE>cambio de color se cree que es<NEWLINE>para intimidar a su adversario.<NEWLINE>Son muy agresivas cuando<NEWLINE>esta en celo.
+Wyverno que mantiene su estado<NEWLINE>primitivo. Propenso a ser violento,<NEWLINE>posee cuatro extremidades feroces,<NEWLINE>garras y mandíbula. Habita una<NEWLINE>amplia zona e incluso se le a<NEWLINE>visto cazando Popo en la<NEWLINE>montañas.<NEWLINE><NEWLINE>
+Subespecie del Tigrex con<NEWLINE>comportamiento muy violento y<NEWLINE>agresivo. sus extremidades<NEWLINE>desarrolladas para carga. Son<NEWLINE>temido por muchos por su<NEWLINE>mandíbula y garras.<NEWLINE>
+Wyverno envuelto en misterio.<NEWLINE>Conocido por algunos como el<NEWLINE>dios negro y por otros como el<NEWLINE>tirano del fuego, este es<NEWLINE>conocido en el gremio como<NEWLINE>Akantor...<NEWLINE>
+Wyverno misterioso. Algunos<NEWLINE>lo conocen como el Dios Blanco,<NEWLINE>aunque el gremio se refiere a el<NEWLINE>como Dragón avalancha, ya que<NEWLINE>aplasta y atraviesa el hielo.<NEWLINE>
+Wyverno cuyo cuerpo esta<NEWLINE>cargado de electricidad. Las garras<NEWLINE>afiladas y las extremidades fuertes<NEWLINE>le permite habitar terrenos<NEWLINE>difíciles. Durante las batallas,<NEWLINE>reúne bichos eléctricos para entrar<NEWLINE>en un estado de sobre carga.
+Se puede extraer minerales raros<NEWLINE>de su espalda; por lo que, se<NEWLINE>consideran símbolo de prosperidad.<NEWLINE>Tragan grandes cantidades de<NEWLINE>materiales orgánico y siempre esta <NEWLINE>rodeado de Delex que se utilizan<NEWLINE>para localizarlo.<NEWLINE>
+En lo profundo de los Picos<NEWLINE>Brumosos, Un dragón anciano<NEWLINE>que desciende a la cumbre de<NEWLINE>la montaña. Es una deidad<NEWLINE>adorada en la Villa Yukumo<NEWLINE>
+Dragón negro resplandeciente,<NEWLINE>llamado así por así por parecer<NEWLINE>tanto a los rayos como a la<NEWLINE>oscuridad. Destrozan sin<NEWLINE>piedad a quien toca sus escamas.<NEWLINE>Sus acciones pueden afectar el <NEWLINE>clima. Es un desastre viviente.<NEWLINE>
+ＮＯ　ＤＡＴOS
+Rathian
+Rathalos
+Qurupeco
+Gigginox
+Barioth
+Diablos
+Deviljho
+Barroth
+Uragaan
+Jaggi
+Jaggia
+Gran Jaggi
+Baggi
+Gran Baggi
+Rathian
+Ludroth Real
+Ludroth
+Rathalos
+Agnaktor
+Diablos
+Uroktor
+Delex
+Tigrex
+Alatreon
+Jhen Mohran
+Giggi
+Aptonoth
+Popo
+Rhenoplos
+Felyne
+Melynx
+Nargacuga
+Altaroth
+Kelbi
+Huevo de Giggi
+Bnahabra
+Bnahabra (砂原)
+Bnahabra (凍土)
+Bnahabra (火山)
+Zinogre
+Amatsu
+Arzuros
+Lambogi
+Volvidon
+Gran Wroggi
+Duramboros
+Nibelsnarf
+Wroggi
+Slagtoth
+Gargwa
+Qurupeco
+Gigginox
+Barioth
+Barroth
+Uragaan
+Ludroth Real
+Agnaktor
+Tigrex
+Nargacuga
+Akantor
+Ukanlos
+Bulldrome
+Bullfango
+Anteka
+Camilla Felyne
+Felyne correo
+Yama (algo)
+Slagtoth
+Roca
+Roca (砂原)
+Roca (水没林)
+Roca (凍土)
+Roca (火山)
+Roca (渓流)
+ＮＯ　ＤＡＴＡ
+Rathian
+Rathalos
+Qurupeco
+Gigginox
+Barioth
+Diablos
+Deviljho
+Barroth
+Uragaan
+Jaggi
+Jaggia
+Gran Jaggi
+Baggi
+Gran Baggi
+Rathian dorada
+Ludroth Real
+Ludroth
+Rathalos plateado
+Agnaktor
+Diablos negra
+Uroktor
+Delex
+Tigrex pardo
+Alatreon
+Jhen Mohran
+Giggi
+Aptonoth
+Popo
+Rhenoplos
+Felyne
+Melynx
+Nargacuga verdoso
+Altaroth
+Kelbi
+Huevo de Giggi
+Bnahabra
+Bnahabra
+Bnahabra
+Bnahabra
+Zinogre
+Amatsu
+Arzuros
+Lambogi
+Volvidon
+Gran Wroggi
+Duramboros
+Nibersnalf
+Wroggi
+Slagtoth
+Gargwa
+Qurupeco carmesi
+Gigginox aterrador
+Barioth arenoso
+Barroth esmeralda
+Uragaan acerado
+Ludroth purpúreo
+Agnaktor glacial
+Tigrex
+Nargacuga
+Akantor
+Ukanlos
+Bulldrome
+Bullfango
+Anteka
+Camilla Felyne
+Felyne correo
+Yama (algo)
+Slagtoth
+Roca
+Roca (Llanuras)
+Roca (Bosque)
+Roca (Tundra)
+Roca (Volcán)
+Roca (Picos)
+Ver detalles misión
+Situación actual
+Nombre de la misión
+¡INTRUSION!
+Estado de caza de monstruos
+Estado de envio de objetos
+Durabilidad del barco
+Misión fallida 0%
+Recompensa intrusion
+Intrusión restante
+Recompensa total
+Recompensa restante
+Tiempo restante
+Pago
+Pago contrato
+Tiempo límite
+Lugar
+Monstruos principales
+NV Misión
+Condiciones de victoria
+Condiciones de fracaso
+Condiciones especiales
+Requisitos
+Requisitos adicionales
+Cliente
+Descripción de la misión
+????????
+★
+★★
+★★★
+★★★★
+★★★★★
+★★★★★★
+★★★★★★★
+★★★★★★★★
+%2d/%2d
+%2d:%02d
+%2d mins.
+%3d%%
+ -/%2d
+%s%s
+Caza 1 %s
+Gremio
+Mountruo Muy Peligroso！<NEWLINE>Cázalo, si te crees capaz<NEWLINE>Selecciona "Volver a la Villa"<NEWLINE>Para salir de la Misión<NEWLINE>~C05 Incluso si Abandonas la recompensa <NEWLINE>obtenida en la misión será pagada
+Mat.A
+Mat.B
+????????
+%3d%%
+???%
+Combinar
+Salir
+Al Baúl
+Interc.
+Tirar
+Preparación exitosa
+Preparación fallida
+     Selec.
+Probabilidad exito
+Cantidad producida
+%2d/%2d
+??
+??/??
+%003d
+Material
+Ordenado
+Personalizado
+Por combin. posibles
+???
+%s ∞
+~C02 Mochila de objetos llena
+Menú
+Seleccionar un objeto.
+Selec. los objetos que necesites<NEWLINE>~C02Mochila de objetos llena
+Selec. los objetos que necesites<NEWLINE>~C02Tienes demasiad. obj. como éste
+%s ∞
+%s ×%2d
+Tienes demasiad. obj. como éste.
+ Detalle Equipo~C00
+RARO-%d
+RARO-?
+%7dz
+%1d/%1d
+%2d/%2d
+%3d/%3d
+Sig.
+Mochila
+Combinar　　
+Mochila temp.
+－－－－－－－－
+∞
+Sig.~B03
+Ant.~B03
+Estado
+Equipo
+Nombre
+Arma
+Lugar
+Dinero
+Puntos Yukumo
+Puntos de Gremio
+RC
+Salud
+Resist.
+Ataque
+Defensa
+R. fuego
+R. agua
+R.trueno
+R. hielo
+R.dragón
+：
+Gran Espada
+Espada
+Martillo
+Lanza
+Ballesta Pesada
+Ballesta Media
+Ballesta Ligera
+Espada Larga
+Hacha Espada
+Lanza Pistola
+Arco
+Hojas Dobles
+Cuerno de caza
+Habilidades de bebida
+Habilidades act.
+Adorno
+Col
+Datos habilidad
+Árbol hab
+Tot
+?
+ E 
+????
+[Sin equipo]
+[Sin inform.]
+Tipo cazador
+Equip. por
+Ataque
+%4d
+Afilado
++1
+-1
+Ranura
+Afinidad
+%3d%%
+%s:
+At. %s(acum)
+Defensa
+Tipo
+Recarga
+Desv.
+Retroceso
+Nv
+Nv.Fue.
+Notas
+%d
+%2d
++%2d
+%3d
+Habilidad 1
+Habilidad 2
+Explosivo
+Concentr.
+Disperso
+Máx len.
+ExtrLento
+SupLento
+Lento
+MuyLento
+Normal
+Rápido
+MuyRáp.
+SupRáp.
+Máx ráp.
+Máx fue.
+Grande
+Moderado
+Ligero
+Pequeño
+MuyDébil
+MáxDébil
+Pequeño
+Moderado
+Grande
+Muy grande
+Ninguno
+Izq/Pq
+Izq/Gr
+Der/Pq
+Der/Gr
+Amb/Pq
+Amb/Gr
+M.Espada
+Artillero
+Todos
+Tipo color
+ＳＵ
+ＸＺ
+：~C%02d%s~C00
+Var.
+Fija
+Cañon Largo
+Silenciador
+－
+Carga　Nv 1  2  3
+~C06LV 1  2
+Carga:
+~C%02dAtrib. %s%s
+~C%02dDefensa~C%02d＋%d
+：~C%02d%3d0
+(Val total)：~C%02d%2d0
+%s~C%02d：%s
+~C%02d%2d
+%s~C%02d%2d
+%s~C%02d/
+%s/
+Cañon Pot.
+Escudo
+[Notas：       ]
+Ataque Acumulado
+Nivel
+    %s~C%02d%s
+[Datos ranura 1]
+[Datos ranura 2]
+Revestimientos disp.
+Afin.:
+●
+○
+－
+Sin ranuras
+Ranuras libres:%s
+1
+2
+3
+Ranuras
+Lv
+Efecto de melodias①
+Efecto de melodias②
+Fuego Rápido
+Cant.
+Int.
+Sin balas corresp.
+Disparo al agacharse
+Fortalez. revestim.
+Sin atributos corresp.
+D Normal
+D Perf.
+D Perd.
+D Explo.
+D Grupo
+D Recup.
+D Veneno
+D para.
+D sueño
+D agotam.
+D llama
+D agua
+D trueno
+D congelante
+D dragón
+D tranquiliz
+D pintura
+D demonio
+D recup.
+D armadura
+Fuego
+Agua
+Trueno
+Dragon
+Hielo
+Veneno
+Paralisis
+Sueño
+Habilidad   | Puntos de hab.  |
+Sin efectos de habilidad
+[Tipo normal]
+[Tipo extendido]
+[Tipo largo]
+Revest. energia
+Revest. energia+
+Revest. parál.
+Revest. Dragón
+Revest. Agotam.
+Revest. veneno
+Revest. veneno+
+Revest. parál.+
+Revest. Sueño+
+Revest. Agotam.+
+Rapido Lv1
+Rapido Lv2
+Rapido Lv3
+Rapido Lv4
+Rapido Lv5
+Disperso Lv1
+Disperso Lv2
+Disperso Lv3
+Disperso Lv4
+Disperso Lv5
+Perforante Lv1
+Perforante Lv2
+Perforante Lv3
+Perforante Lv4
+Perforante Lv5
+Subir Vel. Movimiento
+Subir Ataque[bajo]
+Subir Ataque[alto]
+Defensa Mejorada[bajo]
+Defensa Mejorada[alto]
+Aumentar Salud[bajo]
+Aumentar Salud[medio]
+Aumentar Salud[alto]
+Viento Reducido
+Viento Cancelado
+Viento Cancelado Total
+Perd. Resist. Anulada[bajo]
+Perd. Resist. Anulada[alto]
+Visión Psiquica
+Recupera Salud[bajo]
+Recupera Salud[medio]
+Recupera Salud[alto]
+Desodorante/Rec. Salud[med]
+Antidodo/Rec. Salud[bajo]
+Antidoto/Rec. Salud[med]
+Velocidad Recup.[bajo]
+Velocidad Recup.[alto]
+Protección Divina
+Frio Cancelado
+Calor Cancelado
+Proteccion Oido[bajo]
+Proteccion Oido[alto]
+Aturdimiento Anulado
+Parálisis Anulada
+Temblor Anulado
+Subir Ataque Atributo
+Resistencia Fuego[bajo]
+Resistencia Fuego[alto]
+Resistencia Agua[bajo]
+Resistencia Agua[alto]
+Resistencia Trueno[bajo]
+Resistencia Trueno[alto]
+Resistencia Hielo[bajo]
+Resistencia Hielo[alto]
+Resistencia Dragón[bajo]
+Resistencia Dragón[alto]
+Alta Frecuencia
+Duración Melodias Aumentada
+Retroceso negado
+Ataque/Defensa Mejora[bajo]
+Afinidad/Rec. Salud[bajo]
+Subir Ataque Especial
+Negar estados alterados
+Resistencia a atq. elemen.
+Daño de atq. element. anul.
+Prot. Oido[pq]/Res. Viento
+Resistencia Barro/Nieve
+Nada encontrado.
+¡Misión cumplida!
+Has perdido el cebo.
+¡Monstruo objetivo matado!
+¡Objeto de misión obtenido!
+Regresando al campamento...
+Me pregunto si hay algo allí...
+Aún está crudo...
+No puedes llevar más objetos.
+No has atrapado nada.
+No has podido cortar nada.
+Objetos de suministro devueltos.
+Objetos devueltos a la Caja
+¡Ha aumentado resistencia al calor!
+¡Ha aumentado resistencia al frío!
+¡Se acabó el efecto de Bebida fría!
+¡Se acabó efecto de Bebida caliente!
+¡Se acabó el impulso de velocidad!
+¡Recuperación natural se normaliza!
+¡Aumentó la recuperación natural!
+¡La Resistencia ha dejado de bajar!
+Retirada temporal.
+Obtenido: ~C02%s~C00
+~C02%s~C00 se ha caído!
+~C02%s~C00 conseguido!
+~C02%s~C00 al máximo
+~C02%s~C00 está inconsciente.
+~C02%s~C00 se ha roto!
+~C02%s~C00 fue robado
+~C02%s~C00 recuperado
+~C02%s~C00 entregado
+~C02%s~C00 hecho
+~C02%s~C00 se convirtió
+~C02%s~C00 capturado!!
+~C02%s~C00 tirado
+~C02%s~C00 recibido
+~C02%s~C00 se ha roto.
+~C02%s~C00 a tope. No puedes llevar más.
+~C02%s~C00 dado.
+~C02%s~C00 han sido entregados todos.
+~C02%s~C00 ha mordido!!
+~C02%s~C00 está que arde!
+~C02%s~C00 está acabado
+~C02%s~C00 ha pescado un pez!
+~C02%s~C00 te está dando un objeto.
+~C02%s~C00 se fue del grupo
+Premio: ~C02%s~C00 obtenido
+~C02%s×%d~C00 recibido
+Ha estado ausente
+~C02%s×%2d~C00 hecho
+~C02%s×%2d~C00 capturado!!
+Obtenido: ~C02%s×%d~C00
+Ha recibido un monton de cosas
+Aquí no hay nada más.
+Recompensa total: 0z
+Estás inconsciente.
+Recompensa total: 0z
+No te quedan continuaciones.
+¡El poder del arma ha disminuido!
+¡El poder del arma ha aumentado!
+¡El afilado esta al máximo!
+Comenzando misión.
+Preparando misión.
+¡MISION COMPLETADA！
+MISION FALLIDA
+MISION ABANDONADA
+dummy
+Isla
+Llanos
+Bosque
+Tundra
+Volcan
+Desierto
+Zn. lava
+Arena
+Arena pq.
+Tie.Sagr.
+Zn. Polar
+Montaña
+Mon.Sagr.
+Isla
+Llanos
+Bosque
+Tundra
+Volcan
+Montaña
+<D>
+<N>
+Ninguno
+Solo RC2 o superior
+Solo RC3 o superior
+Solo RC4 o superior
+Solo RC5 o superior
+Solo RC6 o superior
+Misión sólo con Gran Espada
+Misión sólo con Lanza
+Misión sólo con Martillo
+Misión sólo con Espada
+Misión sólo con Ballesta
+Misión sólo con Espadas<NEWLINE>Dobles
+Misión sólo con Espada<NEWLINE>Larga
+Misión sólo con Lanza<NEWLINE>Pistola
+Misión sólo con Cuerno<NEWLINE>de caza
+Misión sólo con Arco
+Misión sólo con Hacha espada
+Sin armadura
+Solo 1 persona
+Solo 2 o menos
+Solo 3 o menos
+Ninguno
+Aum. torso
+Veneno
+Paralisis
+Sueño
+Aturdir
+Barr/Nieve
+Sentido
+Salud
+Vel. recup
+Afilado
+Artesano
+Esgrima
+Experto
+Afilador
+Guardia
+Subir prot
+Autoprot.
+Vel.recarg
+Retroceso
+SubirDNorm
+SubirDPerf
+SubirDPerd
+AñDNormal
+AñDPerf
+AñDPerd
+AñDispBomb
+AñDispGr
+Atq espec.
+Atq. Elem.
+SubFueBomb
+Hambre
+Glotoneria
+Ataque
+Defensa
+Protección
+Prot. oido
+Anti-robo
+Área ampl.
+Mochilero
+R. fuego
+R. agua
+R. trueno
+R. hielo
+R. dragón
+Res. Calor
+Res. Frio
+PresViento
+Recogida
+Vel. recog
+Capricho
+Destino
+VisPsíquic
+Niv. recup
+Combinar
+Combinador
+Evadir
+Potencial
+Duración
+Resist.
+Carga
+Precisión
+Comer
+Cortar
+Temb.anul.
+Dis.Evadir
+Desen.crit
+TrampaRap.
+Yoga
+Captura
+Observar
+CargaRápid
+Desenv. KO
+Res. Plaga
+Sobreviv.
+Fue.Rapido
+Estiercol
+Antisept.
+Bot.Veneno
+Bot.pará.
+Bot.sueño
+Bot.Poder
+Bot.Cont.
+Cuerno
+Artillería
+Determin.
+Cazador
+NieDefBaja
+Fuego Inc
+Agua Inc
+Trueno Inc
+Hielo Inc
+Dragon Inc
+Aña.Corta.
+Aña.Fatiga
+Aguijón
+GolpePes.
+KO
+Atq.Fatiga
+Vel.Guarda
+Rec.Resist
+Sin Habilidad
+Veneno anulado
+Doble Veneno
+Parálisis anul.
+Doble Parálisis
+Sueño anulado
+Doble Sueño
+Aturdim. a mitad
+Niega Aturdim.
+Doble aturdim.
+Niega Barr/Nieve
+Sigilo
+Provocación
+Salud +20
+Salud +50
+Salud -10
+Salud -30
+Vel. recup. +1
+Vel. recup. +2
+Vel. recup. -1
+Vel. recup. -2
+Espada afilada
+Espada sin filo
+Afilado Aument.
+Esgrima
+Ab. Temerario+1
+Ab. Temerario+2
+Ab. Temerario+3
+Ab. Temerario-1
+Ab. Temerario-2
+Ab. Temerario-3
+Afilado rapido
+Afilado lento
+Guardia +1
+Guardia +2
+Guardia -1
+Subir protec.
+AutoProteccion
+Vel.Recarga +1
+Vel.Recarga +2
+Vel.Recarga +3
+Vel.Recarga -1
+Vel.Recarga -2
+Vel.Recarga -3
+Retroc. red. +1
+Retroc. red. +2
+Retroc. red. +3
+Retroc. red. -1
+Retroc. red. -2
+Retroc. red. -3
+Subir normal/Ráp
+Subir perf/Perf
+Subir perd/Dspr
+Aña. norm. TODO
+Añadir perf nv1
+Aña. perf. TODO
+Añad. perdig.nv1
+D.perd.todos NV
+Añadir exp nv1
+D.expl todos NV
+Aña. grupo nv1
+D.grupo todos NV
+Ataque Espec.+1
+Ataque Espec.+2
+Bajar ataq. esp.
+Subir Ataq Elem.
+Bajar Ataq Elem.
+Bombardero
+Hambre a mitad
+Hambre negada
+Hambre aumentada
+Hambriento
+Glotón
+Carroñero
+Subir Ataque[pq]
+Subir Ataque[md]
+Subir Ataque[gr]
+Bajar Ataque[pq]
+Bajar Ataque[md]
+Bajar Ataque[gr]
+Subir Def.[pq]
+Subir Def.[md]
+Subir Def.[gr]
+Bajar Def.[pq]
+Bajar Def.[md]
+Bajar Def.[gr]
+Protec. divina
+Prot. demoniaca
+Tapón de oido
+Tapones grandes
+Anti-robo
+Area Amplia +1
+Area Amplia +2
+Exper. mochilero
+Res. Fuego[pq]
+Res. Fuego[gr]
+Bajar Res. Fuego
+Res. Agua[pq]
+Res. Agua[gr]
+Bajar Res. Agua
+Res. Trueno[pq]
+Res. Trueno[gr]
+Bajar Res.Trueno
+Res. Hielo[pq]
+Res. Hielo[gr]
+Bajar Res. Hielo
+Res. Dragón[pq]
+Res. Dragón[gr]
+Bajar Res. Drag.
+Cancelar calor
+Calor al doble
+Cancelar frio
+Frio al doble
+Res. viento baja
+Res. viento alta
+Recogida +1
+Recogida +2
+Recogida -1
+Recogedor veloz
+Capri. espiritu
+Capri. divino
+Capri. malvado
+Capri. demoniaco
+Buena suerte
+Grán suerte
+Mala suerte
+Calamidad
+Detectar
+Autorastreo
+Recup. Vida Aum.
+Recup. Vida Dec.
+Combinación+20%%
+Combinación+45%%
+Combinación-10%%
+Combinación-20%%
+Producción Max.
+Evadir +1
+Evadir +2
+Evasión dismin.
+Adrenalina +1
+Adrenalina +2
+Preocupado
+Uso de obj. aum.
+Uso de obj. red.
+Corredor
+Pies planos
+Cargar
+Precisión+1
+Precisión+2
+Precisión-1
+Precisión-2
+Comer rápido+1
+Comer rápido+2
+Comer lento
+Celebridad Cort.
+Temblor anulado
+Evasion Ampliada
+Desenvaine crit.
+Experto trampas
+En forma
+Atleta
+Cansado
+Vago
+Experto captura
+Gurú de captura
+Ojo de captura
+Concentración
+Distracción
+Desenv. aturdid.
+Anti-plagas
+Fortalecer
+Disparo adic.
+Exp. Estiercol
+Antiséptico
+Revest. Veneno
+Reves. Parálisis
+Revest. Sueño
+Revest. Poder
+Revest. Contacto
+Flautista
+Maestro Artillero
+Rey Artillero
+Fuer. desatada+1
+Fuer. desatada+2
+Vida del cazador
+Robustez
+Atrib. Fuego +1
+Atrib. Fuego +2
+Atrib. Fuego -1
+Atrib. Agua +1
+Atrib. Agua +2
+Atrib. Agua -1
+Atrib. Trueno +1
+Atrib. Trueno +2
+Atrib. Trueno -1
+Atrib. Hielo +1
+Atrib. Hielo +2
+Atrib. Hielo -1
+Atrib. Dragón +1
+Atrib. Dragón +2
+Atrib. Dragón -1
+Aña. Disp.Corta.
+Aña. Rec. Fatiga
+Loc. Debilidad
+Rey Destructor
+Aturdidor
+Drenar Resist.
+Envaine veloz
+Rec. Resist. Aum
+Rec. Resist. Dis
+Sin habilidades de bebida
+Cortador Felyne[alto]
+Cortador Felyne[bajo]
+Medico Felyne
+Cinturon Negro Fel.
+Polvora Felyne
+Especialista Felyne
+Defensa Felyne[alta]
+Defensa Felyne[baja]
+Flauta Felyne
+Silvicultor Felyne
+Carisma Felyne
+Combin. Felyne[alta]
+Combin. Felyne[baja]
+Recogedor Felyne
+Punteria Felyne
+Gato Ultrasuerte
+Gato Megasuerte
+Heroicidad Felyne
+Gran rotura Felyne
+Huida Felyne
+Lanzador Felyne
+Coraje Felyne
+Supergato Felyne
+Gato fuerte Felyne
+Gato temeroso
+Explorador Felyne
+Negociador Felyne
+Levantam. Felyne[gr]
+Levantam. Felyne[pq]
+Temperamento Felyne
+Kickboxer Felyne
+Luchador Felyne
+Escalad. Felyne [gr]
+Escalad. Felyne [pq]
+Supercortador Felyne
+Aterrizaje Felyne
+Danza Felyne
+Excavador Felyne
+Memoria Felyne
+KO Felyne
+Suerte Felyne
+Explosion Felyne
+Bombardero Felyne
+Sangre fria Felyne
+Maestro estierc. Fel.
+Limpiador Felyne
+Andafuegos Felyne
+Deslizador Felyne
+Oráculo Felyne
+Pulidor Felyne
+Ataque Inc. [bajo]
+Ataque Inc. [medio]
+Ataque Inc. [alto]
+Defensa Inc. [baja]
+Defensa Inc. [media]
+Defensa Inc. [alta]
+Resisten. Fuego Inc.
+Resisten. Agua Inc.
+Resisten. Trueno Inc.
+Resisten. Hielo Inc.
+Resisten. Dragón Inc.
+Pasividad Felyne
+Desafio Felyne
+Enseñanza Felyne
+Hipnosis Felyne
+Acuerdo Felyne
+Insomnio Felyne
+Caida Felyne
+Pescador Felyne
+IDIOMA
+SONIDO
+NIVEL MÚSICA FONDO
+NIVEL DE EFECTOS
+CONTINUACIÓN RÁPIDA
+INSTALACIÓN MS DUO
+EFECTOS
+OPCIONES PREDETERMINADAS
+~B09Selec.　~B00Canc.
+~B01Elegir　~B00Canc
+ENGLISH
+GERMAN
+FRENCH
+SPANISH
+ITALIAN
+ESTEREO
+DOLBY PRO LOGIC Ⅱ
+BOOST
+MIN
+MAX
+No
+Si
+NORMAL
+SIMPLE
+Selecciona el idioma del juego.
+Seleccionado el modo Estereo.<NEWLINE>El método estándar para reproducir audio. Adecuado para<NEWLINE>PSP~B11 (PlayStation~B11Portable) y salida de auriculares..
+Ajusta el volumen de la salida de la música de fondo.
+Selecciona el volumen de la salida de efectos.
+Seleccionar activar la simplificará la selección de personajes<NEWLINE> en pantalla y acortar los tiempos de carga.
+Medios de datos instalados estan desactivados.
+Seleccion los efectos visuales.<NEWLINE>Sangre normal y efectos de golpes.
+Poner opciones de fabricas
+Seleccionado el modo DOLBY PRO LOGIC II.<NEWLINE>Disfrute de sonido envolvente cuando está conectado a un<NEWLINE>Dispositivo AV compatible con Dolby Professional Logic II.
+Seleccionado BOOST.<NEWLINE>Apto solo para PSP~B11 (PlayStation~B11Portable)<NEWLINE>salida de los altavoces. No apto para salida de auriculares.
+Seleccione la configuración de salida de sonido.<NEWLINE>Disfrute de sonido envolvente cuando está conectado a un<NEWLINE>Dispositivo AV compatible con Dolby Professional Logic II.
+Seleccione la configuración de salida de sonido.<NEWLINE>Apto solo para PSP~B11 (PlayStation~B11Portable)<NEWLINE>salida de los altavoces. No apto para salida de auriculares.
+Volver al menú del juego.
+Selecciona los efectos visuales<NEWLINE>Poca sangre y efectos de golpes.
+Si seleccionas SÍ, se simplificará la<NEWLINE>selección de personaje y se acortarán<NEWLINE>los tiempos de carga.
+Use installed data to load faster when using UMD~B11. You'll<NEWLINE>Primero deberá haber usado ~ C05Media Install ~ C00 en el menú principal. <NEWLINE> ~ C02 ¡Esto probablemente causará fallas y errores de traducción!
+Seleccionado ESTÉREO.<NEWLINE>Standard method to play the audio.<NEWLINE>Best for playing with headphones.
+El interruptor WLAN/WIRELESS está apagado.
+Abrir Bolsa de objetos y consultar<NEWLINE>inventario de objetos actual.
+Combinar objetos.
+Preparación de objetos directamente<NEWLINE>de la lista.
+Consultar estado de misión<NEWLINE>actual y condiciones del contrato.
+Verificar la información del Felyne<NEWLINE>Solo se pueden transferir Felyne<NEWLINE>en la sala online.
+Pausar el juego<NEWLINE>Utilize SELECT como atajo.
+Consultar tu estado actual.
+Consultar los datos de tu<NEWLINE>equipo.
+Ver información referente al monstruo<NEWLINE>Debes comprar las guias de monstruo<NEWLINE>para que estén disponibles.
+Cambiar diversas opciones del<NEWLINE>juego.
+Selecciona un gesto para<NEWLINE>comunicar
+Salir de la misión actual y<NEWLINE>regresar a la aldea.
+Escuchar los consejos del<NEWLINE>instructor de la Escuela<NEWLINE>de entrenamiento.
+Selecciona un gesto para<NEWLINE>comunicar
+Mira tu tarjeta del Gremio
+Edita tu tarjeta de gremio.
+Envia tu carta a otro<NEWLINE>cazador
+Abre tu lista de carta para<NEWLINE>mirar las cartas de otros<NEWLINE>cazadores
+Estatus del camarada Felyne
+Mira el equipamiento del Felyne
+Dar tu camarada a otro<NEWLINE>cazador
+Despedir camarada.
+Selecciona un Felyne
+Selecciona un Cazador
+Selecciona un Felyne
+~C02Felynes en Mision~C00
+Selecciona un Felyne<NEWLINE>~C02¡No tienes!~C00
+Opciones
+Vista de Estatus
+Vista Mapa
+Vista de camara
+Opciones de camara
+Prismático
+Controles mira
+Tipo de camara
+Tipo de Evasion
+Tipo de vista
+SONIDO
+OPCIONES PREDETERMINADAS
+SI
+NO
+NO
+SI
+NORMAL
+INVERTIDO1
+INVERTIDO2
+TIPO1
+TIPO2
+TIPO3
+TIPO4
+TIPO5
+ESTEREO
+DPLⅡ
+BOOST
+AUTO
+MANUAL
+Mostrar el HUD
+No mostrar el HUD
+Mostrar el mapa
+No mostrar el mapa
+Establecer la vista de la cámara<NEWLINE>en el comienzo de la misión.<NEWLINE><NEWLINE>La cámara esta en la parte<NEWLINE>superior y esta mirando hacia<NEWLINE>abajo.
+Establecer la vista de la cámara<NEWLINE>en el comienzo de la misión.<NEWLINE><NEWLINE>La cámara esta un poco desde<NEWLINE>arriba.
+Establecer la vista de la cámara<NEWLINE>en el comienzo de la misión.<NEWLINE><NEWLINE>La cámara mirara ligeramente<NEWLINE>hacia abajo.
+Establecer la vista de la cámara<NEWLINE>en el comienzo de la misión.<NEWLINE><NEWLINE>La cámara mirara al frente.
+Establecer la vista de la cámara<NEWLINE>en el comienzo de la misión.<NEWLINE><NEWLINE>La cámara mirara hacia<NEWLINE>arriba.
+Izquierda/Derecha son normales.  <NEWLINE>Arriba/Abajo son normales.
+Izquierda/Derecha son normales.  <NEWLINE>Arriba/Abajo estan reversos
+Izquierda/Derecha son reversos  <NEWLINE>Arriba/Abajo son reversos
+Configuración para el movimiento<NEWLINE>de la cámara cuando se usa <NEWLINE>un prismático.<NEWLINE><NEWLINE>Movimiento normal.
+Configuración para el movimiento<NEWLINE>de la cámara cuando se usa <NEWLINE>un prismático.<NEWLINE><NEWLINE>Arriba es abajo y abajo es arriba.<NEWLINE>
+Configuración para el movimiento<NEWLINE>de la cámara cuando se usa <NEWLINE>un prismático.<NEWLINE><NEWLINE>Arriba es abajo y abajo es arriba.<NEWLINE>Izquierda es derecha y derecha<NEWLINE>es izquierda.
+Apuntar ballesta o arco.<NEWLINE>Establezca el método de apuntado.<NEWLINE><NEWLINE>Predeterminado.
+Apuntar ballesta o arco.<NEWLINE>Establezca el método de apuntado.<NEWLINE><NEWLINE>Izquierdo y derecho normal.<NEWLINE>Arriba y abajo invertido.
+Apuntar ballesta o arco.<NEWLINE>Establezca el método de apuntado.<NEWLINE><NEWLINE>Izquierdo y derecho invertido.<NEWLINE>Arriba y abajo invertido.
+Settings for the camera type when<NEWLINE>simple aiming of the Bowgun or<NEWLINE>final aim adjustments for the Bow.
+Settings for the camera type when<NEWLINE>simple aiming of the Bowgun or<NEWLINE>final aim adjustments for the Bow.
+Settings for the camera type when<NEWLINE>simple aiming of the Bowgun or<NEWLINE>final aim adjustments for the Bow.
+Pressing forward on the analogue<NEWLINE>stick, a dodge will go in the<NEWLINE>direction the hunter is facing.
+Pressing forward on the analogue<NEWLINE>stick, a dodge will go in the<NEWLINE>direction the camera is facing.
+Adjust Bowgun Shoulder Sight<NEWLINE>settings.
+Adjust Bowgun Shoulder Sight<NEWLINE>settings.
+Adjust Bowgun Shoulder Sight<NEWLINE>settings.
+Automatically select Hall.<NEWLINE>Use this for convenience in quiet<NEWLINE>areas with few other MHP3 players<NEWLINE>around.
+Manually select Hall.<NEWLINE>Use this in busy areas or when<NEWLINE>playing online (via adhocParty,<NEWLINE>Xlink Kai, or prometheus for<NEWLINE>example).
+Select sound output settings.<NEWLINE>Standard setting.<NEWLINE>Select when using headphones.
+Select sound output settings.<NEWLINE>Enjoy surround sound when<NEWLINE>connected to a<NEWLINE>Dolby Professional Logic II<NEWLINE>enabled AV device.
+Select sound output settings.<NEWLINE>Suitable only for<NEWLINE>PSP~B11 (PlayStation~B11Portable)<NEWLINE>speaker output. Not suitable for<NEWLINE>headphone output.
+La opcion de carga de datos<NEWLINE>esta en ＯＦＦ
+Carga simultaneamente datos<NEWLINE>del UMD~B11 y la Memory Stick<NEWLINE>Duo~B10 para acelerar los<NEWLINE>tiempos de carga.<NEWLINE>~C02 ¡Utilizar la instalacion de datos<NEWLINE>puede ocasionar errores con la<NEWLINE>traduccion!
+Colocar los ajustes de fabrica
+¿Configurar todo con las Opc.<NEWLINE>de fabrica?
+Selecciona un objeto para enviar<NEWLINE>a la Caja de objetos.
+Se ha enviado el objeto.
+~C02La caja de objetos está llena.
+¿Deseas ordenar los objetos?
+Desconectado.
+Se va a tirar el objeto<NEWLINE>seleccionado. ¿Aceptar?
+Selecciona un Cazador
+¿Es correcto?
+¿Cuanto le daras?
+Selecciona cuantos objetos  <NEWLINE>te gustaría entregar.
+Se van a entregar estos objetos.<NEWLINE>¿Es correcto?
+¿Deseas ordenar los objetos?
+Selecciona el destino del objeto
+~C10Desconocido
+Desconocido
+~C02No tienes materiales.
+No puedes llevar más objetos de<NEWLINE>este tipo.
+~C02No queda espacio en la Bolsa<NEWLINE>de objetos.
+No puedes llevar mas Items.<NEWLINE>Por favor selecciona una accion.
+¿Qué objeto deseas intercambiar?
+Se va a intercambiar el objeto.<NEWLINE>¿Es correcto?
+The Supply items in the<NEWLINE>preparation.
+¿Quieres volver al estado<NEWLINE>inicial?
+~C02El Baúl esta lleno.
+1
+1～2
+2
+1～3
+2～4
+3
+5
+1～3
+Saludo
+Reveren.
+Asentir
+MovCab.
+Mano
+Alabanz.
+Celebración
+Apuntando
+Desesp.
+Frustr.
+Descanso
+Pelea
+Provocacion
+Fanfarrón
+Baile 1
+Baile 2
+Acción
+Villa Yukumo (offline)
+SALA
+Zona entr.
+Pulsa el botón ~B00
+Prec vent:
+Total venta:
+Cuerda decorativa del Jefe
+Horquilla del Jefe
+Gancho del cinturón del Jefe
+Túnica del Jefe
+Caja de píldoras Jaspe
+Túnica de Tormenta
+Corona del Rey
+Corona en miniatura
+Daruma Felyne Bronce
+Daruma Felyne Plata
+Daruma Felyne Oro
+Documen. secretos del experto
+Informe investigación ecología
+Progresos del cazador
+Espantapajaros Yukumo
+Bandera del Escuadrón Monnyan
+Abanico Aguas Termales
+Martillo del artesano Wyverian
+Casco de la tienda de armas
+Felvine supremo
+Carta para el maestro
+Cuentas de Conquista
+Emblema de Cielo & Tierra
+Prueba de cazador
+Prueba de cazador 2ndG
+Ver
+Sal.
+Entrenamiento de batalla
+Entrenamiento especial
+Entrenamiento en grupo
+[Entrenamiento Ｇ]
+Entrenam. con Yian Kut-Ku
+Entrenamiento con Congalala
+Entrenamiento con Khezu
+Entr. con Daimyo hermitaur
+Entrenamiento con Blangonga
+Entrenam. con Yian Garuga
+Entrenamiento con Tigrex
+Entrenamiento con Diablos
+Entrenamiento con Gravios
+Entrenamiento con Kirin
+Entrenam. Cephadrome
+Entrenam. Plesioth
+Entrena. ShogunCeanataur
+Entrenam. Rathalos
+Entrenam. Rajang
+Ejercicios Cephadrome
+Ejercicios Rathian
+Ejerci. ShogunCeanataur
+Ejercicios Tigrex
+Entrenamiento Hypnok
+Entren. Congalala Verde
+Entrena. HermiDiablo
+Entrenamiento Naruga
+Entren. Blangonga Marrón
+Entrenam. Volganos
+Entrenam. Shogun Rojo
+Entrenam. Rajang
+dummy
+Recibir objeto
+Enviar al Baúl
+Terminar
+Información Felyne
+NV
+Dueño
+Linaje
+Gr. Amistad
+Met. ataque
+Tend. blanco
+Personalidad
+Comentarios
+Envio esp.
+Equipo Felyne
+Habilidades de bonificación
+Especial:
+Especial:
+Puntos Felyne
+Memoria para habil.
+Ranuras
+Habilidad
+Nv.dificultad
+pts
+Felyne 1
+Felyne 2
+－－－－－－
+LV
+Arma
+Casco
+Cor.
+[Regular]
+[Nota]
+Tipo atq
+[Eficacia del arma]
+[Eficacia del Bumerán]
+Cor.
+Imp.
+Introduzca la descr.
+Arthur
+Arnold
+Almond
+Ashley
+Apple
+Annie
+Alan
+Emmanuelle
+Kali
+Kern
+Kid
+Gilbert
+Graham
+Crystal
+Kay
+Kane
+Cocoa
+Conan
+Shiva
+Jim
+Shu
+Show
+Shot
+Sylvia
+Scorpion
+Scott
+Senna
+Diana
+Tama
+Tan
+Runt
+Charles
+David
+Temu-jin
+Terry
+Touma
+Thomas
+Donald
+Tony
+Tom
+Dora
+Nathalie
+Pie
+Patricia
+Hank
+Pete
+Pure
+Billy
+Fir
+Break
+Helga
+Boy
+Poti
+Mac
+Marco
+Mii
+Mischa
+Milo
+Musashi
+Reed
+Rafiel
+Ray
+Leon
+Laura
+Oscar
+Oliver
+Ken
+Goemon
+Kojiro
+Simon
+Sasuke
+Shizuka
+Jasper
+Jasmine
+Jack
+Juubee
+Ginger
+Simba
+Spike
+Sebastian
+Sophie
+Charlie
+Tomoe
+Hanzo
+Benkay
+Holy
+Maggie
+Masamune
+Misty
+Minnie
+Molly
+Ranmaru
+Liu
+Lily
+Lucy
+Rocky
+Akira
+Law
+Allen
+Izumi
+Udon
+Edge
+Edgar
+Erg
+Omochi
+Origami
+Kak
+Gatsha
+Gull
+Karta
+Carne
+Gallon
+Gingham
+Kinchaku
+Koo
+Cayman
+Qena
+Kemari
+Heart
+Kotaro
+Cotton
+Frame
+Cornet
+Siren
+Zach
+Satin
+Salsa
+Sancho
+Samba
+Jet
+Chiffon
+Sugar
+Daisy
+Jiraiya
+Shirataki
+Cymbal
+Steve
+Smash
+Daigo
+Dine
+Tap
+Dungan
+Tango
+Chime
+Tsumiki
+Texas
+Denka
+Tofu
+Torne
+Natsu
+Nell
+Napa
+Puzzle
+Patata
+Bee
+Humming
+Hayat
+Barrel
+Peter
+Pico
+Hinata
+Leopard
+Fermi
+Flannel
+Bruce
+Bell
+Velvet
+Velor
+Bogey
+Polka
+Lupo
+Horn
+Bonn
+Bond
+Mike
+Migya
+Miko
+Merle
+Muslin
+Peach
+Monme
+Rucker
+Rush
+Latte
+Lute
+Lynn
+Rumba
+Remy
+Rock
+Lobo
+Ron
+Watson
+Hunter
+Camarada
+Usar flauta Ataque
+Usar flauta Defensa
+Usar flauta Antidoto
+Usar flauta salud
+Flauta salud inc.
+Ataque elemental Inc
+Ataque [Veneno]
+Ataque [Parálisis]
+Ataque [Sueño]
+Ataque esp. Inc
+Rec. rap. Barr/Nieve
+Veneno Negado
+Resist. viento alta
+Tapón Oído Alta Cal
+Res viento/Tap. oido
+Ataque Inc
+Ataque Inc+
+Defensa Inc
+Defensa Inc+
+Salud Inc
+Salud Inc+
+Guardia Inc
+Guardia Inc+
+Golpe crítico Inc
+Habilidad robo Inc
+Uso de Trampas Bomba
+Bomba Felvine
+Uso Bombas grandes
+Uso de bombas+
+Reduc. daño bombas
+Bumerán grande
+Bumerán perforante
+Cañon/Balista Inc
+Vel. recuper. Inc
+Reencarnación
+Supergato
+Defensa Fuego Inc
+Defensa Agua Inc
+Defensa Trueno Inc
+Defensa Hielo Inc
+Defensa Dragon Inc
+Defensa elemental
+Efecto Psicosuero
+Recolección veloz
+Recuperación
+Recolector Felyne
+Trabajador Felyne
+Descanso Felyne
+Equipo Flautista
+Cooperac. en trampas
+Preocupación Felyne
+Amistad Felyne
+Atq. sube 　 Def. baja
+Def. sube 　 Atq. baja
+Afin. sube　 Def. baja
+Resist. Inc  R. fue. Dec
+R. fue. Inc  R.drg. Dec
+R. agua Inc  R. fue. Dec
+R. true. Inc Resist. Dec
+R. hie. Inc  R. true. Dec
+R. drg. Inc  Afin. Dec
+Despertar atq/def
+Des. de Velocidad
+Super Guardia
+Ataque c/Afinidad
+Nunca roba!
+Solo Melé
+Solo Bombas
+Solo Bumerán
+Melé / Bombas
+Melé / Bumerán
+Bombas y Bumerán
+Apoyo
+Solo haré ataques de cerca -Nya.<NEWLINE>Mis armas se fortalecen al atacar!
+Dejame los ataques con bombas -Nya.<NEWLINE>Tambien puedo usar bombas aereas!
+Solo usaré el Bumerán -Nya. Puedo<NEWLINE>atacar desde lejos con<NEWLINE>precisión -Nya!
+Cuando estés cerca del monstruo,<NEWLINE>atacaré de cerca y usaré bombas<NEWLINE>cuando te alejes -Nya.
+Cuando estés cerca del monstruo,<NEWLINE>atacare de cerca y usaré el<NEWLINE>Bumerán cuando te alejes -Nya.
+Cuando te acerques al monstruo<NEWLINE>usaré mi Bumerán y usaré bombas<NEWLINE>cuando te alejes -Nya.
+No voy a atacar para nada -Nya.<NEWLINE>Soy la prueba del pacifismo -Nya.
+Sólo Pequeños
+Pref. Pequeños
+Equilibrado
+Pref. Grandes
+Sólo Grandes
+Mis ojos son solo para monstruos<NEWLINE>pequeños. No me interesan los<NEWLINE>grandes -Nya!
+Prefiero atacar a monstruos<NEWLINE>pequeños cuando se pueda. No me<NEWLINE>interesan los grandes -Nya!
+Mis blancos serán los monstruos<NEWLINE>pequeños, asi como los<NEWLINE>grandes -Nya.
+Prefiero atacar a monstruos<NEWLINE>grandes cuando se pueda. No me<NEWLINE>interesan los pequeños -Nya!
+Mis ojos son solo para monstruos<NEWLINE>grandes. No me interesan los<NEWLINE>pequeños -Nya!
+Valiente
+Distractor
+Tímido
+Leal	
+Precavido
+Bérserker
+Pacífico
+Cuando el gran monstruo se enoje me<NEWLINE>lanzaré a pelear -Nya!, y también<NEWLINE>soy inmune al pánico -Nya.
+Si el monstruo se enoja y estás muy<NEWLINE>herido, llamaré su atención y ata-<NEWLINE>caré -Nya. Y me llevaré el golpe...
+Si el monstruo se llega a molestar<NEWLINE>correré a ocultarme bajo tierra,<NEWLINE>aunque dejaré algo utíl -Nya!
+Si un monstruo te hiere, sentirá mi<NEWLINE>ira -Nya!! Y si te llega a retener,<NEWLINE>le lanzaré una bomba estiercol.
+Si el monstruo grande está cansado<NEWLINE>o aturd., atacaré freneticamente.<NEWLINE>Entro en pánico facilmente -Nya.
+Mi veloc. de recuperación es muy<NEWLINE>rápida!. Cuando un monstruo grande<NEWLINE>se enoje, resaltaré en batalla -Nya
+No puedo manejar las peleas -Nya.<NEWLINE>Mejor ignoro los monstruos molestos<NEWLINE>y me dedico a recolectar -Nya.
+Felyne
+Té Felyne
+Limón
+Uva
+Moscatel
+Naranja
+Melynx
+Negro Cámara
+Amarillo Mela
+Ceñudo
+Sigilo
+Amelia
+Tigre Naranja
+Tigre Amarillo
+Tigre Gris
+Tigre Azul
+Tigre Wasabi
+Tigre Rojo
+Blanco
+Negro
+Azul Profundo
+Té
+Marrón
+Jet
+Cerezo
+Azul
+Menta
+Dorado
+Gris
+Marrón moteado
+Azul moteado
+Rojo moteado
+Púrpura
+Mar Profundo
+Tienda de objetos
+Vendedor ambulante
+Encarg. Granja
+Guia de la Granja
+Tienda de bebidas
+Asador especial
+Mineria Felyne
+Punto de Minería
+Campo
+Nekobaa
+Tienda Felyne
+Escuadrón Monnyan
+Cap. insectos Felyne
+Malla para insectos
+Colmena de abejas
+Tienda de Armas
+Herreria Yukumo
+Cesta de Pesca
+Red de pesca
+Arbol de Setas
+Area de misiones
+Aguas Termales
+Area de entrenam.
+Jefe de la Villa
+Tienda del cazador
+Amuleto Peón
+Amuleto Alfil
+Amuleto Caballo
+Amuleto Torre
+Amuleto Reina
+Amuleto Rey
+Amuleto Dragón
+Un talismán usado por un<NEWLINE>soldado común . Echo para<NEWLINE>traer la buena suerte.
+Un talismán hecho un obispo<NEWLINE>extranjero que rezó para la<NEWLINE>victoria. Previene desastre.
+Un talismán dado como premio a<NEWLINE>los caballeros. Trae al porta-<NEWLINE>dor gran gloria.
+Un talismán hecho de murallas<NEWLINE>que protegieron la ciudad por<NEWLINE>siglos.
+Un talismán echo por una reina<NEWLINE>quien gobierno durante la era<NEWLINE>de oro. Contiene sabiduría.
+El talismán de un rey que<NEWLINE>gobierno el mundo. El que lo<NEWLINE>viste gana la sabiduría.
+Un talismán hecho del ojo de<NEWLINE>un dragón. Concede el poder<NEWLINE>de un dragón .
+Leche milagrosa
+Macchiato Rakuru
+Yogurt Suertudo
+Lassie Suertudo
+Celebrity
+Cerveza Hako
+Muestra de vino
+Refresco Pokopo
+Squash Boko
+Jugo Raifurutsuji
+Ponche Sunay
+Genmaicha [Gangi]
+Genmaicha [Tejón]
+Té fuerte [Yakura]
+Té fuerte [Milenario]
+Shiruko caliente
+Agua de manantial
+Cidra trueno
+Leche congelada
+Té de dragón
+Café con leche Yukumo
+Limonada Yukumo
+Hiyashi dulce Yukumo
+Recomendación del dia!
+Detalles del Felyne
+Destino del Felyne
+Felyne 1
+Felyne 2
+Estado Felyne
+Detalles Felyne
+Dar
+Despedir
+El mismo Felyne ya existe
+No puedes emplear a mas Felynes
+La caja de equipo del Felyne está llena
+Cazador

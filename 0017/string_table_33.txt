@@ -1,0 +1,214 @@
+Nada Equipado
+Obi Yukumo
+Cinturón Cuero
+Cinturón Malla
+Muslera Cazador
+Cota Cazador
+Falda Loc Lac
+Muslera Hueso
+Cota Hueso
+Faja Aleación
+Cota Aleación
+Faja Bnahabra
+Cota Bnahabra
+Faja Rhenoplos
+Cota Rhenoplos
+Muslera Jaggi
+Cota Jaggi
+Muslera Arzuros
+Cota Arzuros
+Muslera Acero
+Muslera Wroggi
+Cota Wroggi
+Muslera Lambogi
+Cota Lambogi
+Faja Qurupeco
+Cota Qurupeco
+Muslera Ludroth
+Cota Ludroth
+Muslera Barroth
+Cota Barroth
+Faja Lingote
+Cota Lingote
+Faja Baggi
+Cota Baggi
+Muslera Volvidon
+Cota Volvidon
+Muslera Rathian
+Cota Rathian
+Muslera Nibelsnarf
+Cota Nibelsnarf
+Musleras Gigginox
+Cota Gigginox
+Muslera Naruga
+Cota Naruga
+Muslera Barioth
+Cota Barioth
+Muslera Rathalos
+Cota Rathalos
+Muslera Uragaan
+Cota Uragaan
+Muslera Zinogre
+Cota Zinogre
+Campana Diablos
+Cota Diablos
+Muslera Tigrex
+Cota Tigrex
+Muslera Agnaktor
+Cota Agnaktor
+Muslera Duramboros
+Cota Duramboros
+Cmp. guar. Gremio
+Cota guar. Gremio
+Falda Escalar
+Faralao Escalar
+Hoja Calabaza
+Hoja Calabaza
+Hoja Calabaza
+Hoja Calabaza
+Musleras Pescado
+Cota Pescado
+Muslera Escarabajo
+Cota Escarabajo
+Muslera Mariposa
+Cota Mariposa
+Koshiate Yamato
+Koshiate Mutsu
+Koshiate Hyuga
+Koshiate Amagi
+Obi Yukumo・Cielo
+Obi Yukumo・Tierra
+Muslera Cuero S
+Cota Cuero S
+Muslera Malla S
+Cota Malla S
+Muslera Cazador S
+Cota Cazador S
+Falda Loc Lac S
+Cota Loc Lac S
+Muslera Hueso S
+Cota Hueso S
+Faja Aleación S
+Cota Aleación S
+Faja Bnahabra S
+Cota Bnahabra S
+Faja Rhenoplos S
+Cota Rhenoplos S
+Muslera Jaggi S
+Cota Jaggi S
+Muslera Arzuros S
+Cota Arzuros S
+Faja Acero S
+Muslera Wroggi S
+Cota Wroggi S
+Muslera Lambogi S
+Cota Lambogi S
+Faja Qurupeco S
+Cota Qurupeco S
+Muslera Ludroth S
+Cota Ludroth S
+Muslera Barroth S
+Cota Barroth S
+Faja Lingote S
+Cota Lingote S
+Faja Baggi S
+Cota Baggi S
+Muslera Volvidon S
+Cota Volvidon S
+Muslera Rathian S
+Cota Rathian S
+Muslera Nibelsnarf S
+Cota Nibelsnarf S
+Musleras Gigginox S
+Cota Gigginox S
+Muslera Naruga S
+Cota Naruga S
+Muslera Barioth S
+Cota Barioth S
+Muslera Rathalos S
+Cota Rathalos S
+Muslera Uragaan S
+Cota Uragaan S
+Faja Dober
+Cota Dober
+Muslera Zinogre S
+Cota Zinogre S
+Campana Diablos S
+Cota Diablos S
+Muslera Tigrex S
+Cota Tigrex S
+Muslera Agnaktor S
+Cota Agnaktor S
+Muslera Duramboros S
+Cota Duramboros S
+Faja Qurupeco U
+Cota Qurupeco U
+Muslera Ludroth U
+Cota Ludroth U
+Muslera Barroth U
+Cota Barroth U
+Musleras Gigginox U
+Cota Gigginox U
+Muslera Naruga U
+Cota Naruga U
+Muslera Barioth U
+Cota Barioth U
+Muslera Uragaan U
+Cota Uragaan U
+Campana Diablos U
+Cota Diablos U
+Muslera Tigrex U
+Cota Tigrex U
+Muslera Agnaktor U
+Cota Agnaktor U
+Muslera Luna Dor.
+Cota Luna Dorada
+Muslera Sol Plat.
+Cota Sol Plateada
+Faja Vangis
+Cota Vangis
+Muslera de Soldado
+Muslera de Soldado
+Cmp. guar. Gremio S
+Cota guar. Gremio S
+Falda Escalar S
+Faralao Escalar S
+Hoja Calabaza S
+Hoja Calabaza S
+Hoja Calabaza S
+Hoja Calabaza S
+Muslera Pescado S
+Cota Pescado S
+Muslera Escarabajo S
+Cota Escarabajo S
+Muslera Mariposa S
+Cota Mariposa S
+Shidare Dianthus
+Shidare Kikyo
+Faja Damasco
+Cota Damasco
+Koshiate Yamato・Spr
+Koshiate Mutsu・Supr
+Koshiate Hyuga・Supr
+Koshiate Amagi・Supr
+Cincho Akan. Oscuro
+Fajín Akantor Oscu.
+Cincha Ukanlos
+Fajin Ukanlos
+Poder Escadora
+Hourusu Escadora
+Obi Tormenta
+Obi Cielo Azul
+Piercing Trinidad
+Camp. de Jolly Roger
+Falda de Jolly Roger
+Cinturón Snake
+Cinturón Snake
+Cinturón The Boss
+Cinturón The Boss
+Correa UNIQLO
+Porch UNIQLO
+Cintur. Inf. cazador
+Hebilla Inf. cazador
+Cintur. Alma cazador
+Hebilla Alma cazador
